@@ -269,3 +269,8 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [20Sep2025 19:44:21.705] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
 [20Sep2025 19:44:21.710] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
 [20Sep2025 19:44:51.718] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@34496ca5[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:40593) lost connection: Timed out
+[20Sep2025 19:52:47.698] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
+[20Sep2025 19:52:47.700] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
+[20Sep2025 19:53:14.315] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ad2e541[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:33085) lost connection: Disconnected
+[20Sep2025 19:54:21.996] [Netty Epoll Server IO #0/WARN] [AutoModpack/]: Nanami12483 has not installed AutoModpack.
+[20Sep2025 19:54:22.013] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b0bde31[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:40921) lost connection: AutoModpack mod for forge modloader is required to play on this server!

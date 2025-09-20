@@ -2586,3 +2586,28 @@ java.lang.ClassNotFoundException: org.bouncycastle.jce.provider.BouncyCastleProv
 [20Sep2025 19:47:45.647] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [20Sep2025 19:49:51.762] [Netty Epoll Server IO #3/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:57599: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
 [20Sep2025 19:49:52.397] [Netty Epoll Server IO #4/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x3693de28, L:/127.0.0.1:25565 - R:/127.216.201.107:56539] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:52:45.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:52:45.631] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 19:52:47.588] [Netty Epoll Server IO #7/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 19:52:47.698] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
+[20Sep2025 19:52:47.700] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
+[20Sep2025 19:52:48.308] [Netty Epoll Server IO #0/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:37743: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 19:53:14.109] [Netty Epoll Server IO #1/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x1512a343, L:/127.0.0.1:25565 - R:/127.216.201.107:46707] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:14.315] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6ad2e541[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:33085) lost connection: Disconnected
+[20Sep2025 19:53:16.803] [Netty Epoll Server IO #2/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:57475: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 19:53:17.455] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x12edd703, L:/127.0.0.1:25565 - R:/127.216.201.107:59181] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:17.962] [Netty Epoll Server IO #4/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x17669339, L:/127.0.0.1:25565 - R:/127.216.201.107:51097] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:18.476] [Netty Epoll Server IO #5/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x65aa24b9, L:/127.0.0.1:25565 - R:/127.216.201.107:44413] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:18.984] [Netty Epoll Server IO #6/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x5cee8071, L:/127.0.0.1:25565 - R:/127.216.201.107:36833] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:19.545] [Netty Epoll Server IO #7/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xe3eb3367, L:/127.0.0.1:25565 - R:/127.216.201.107:47597] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:40.086] [Netty Epoll Server IO #0/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:47895: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 19:53:40.762] [Netty Epoll Server IO #1/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xf4d437e7, L:/127.0.0.1:25565 - R:/127.216.201.107:40905] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:50.199] [Netty Epoll Server IO #2/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:52165: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 19:53:50.873] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xb04bc5aa, L:/127.0.0.1:25565 - R:/127.216.201.107:53747] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:53:58.713] [Netty Epoll Server IO #4/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:40951: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 19:53:59.384] [Netty Epoll Server IO #5/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x4b4b5c76, L:/127.0.0.1:25565 - R:/127.216.201.107:60897] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 19:54:21.864] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 19:54:21.996] [Netty Epoll Server IO #0/WARN] [AutoModpack/]: Nanami12483 has not installed AutoModpack.
+[20Sep2025 19:54:22.013] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b0bde31[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:40921) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[20Sep2025 19:57:45.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 19:57:45.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
