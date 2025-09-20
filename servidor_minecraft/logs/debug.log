@@ -2712,3 +2712,83 @@ java.lang.ClassNotFoundException: org.bouncycastle.jce.provider.BouncyCastleProv
 [20Sep2025 02:50:30.188] [Netty Epoll Server IO #6/WARN] [AutoModpack/]: Nanami12483 has not installed AutoModpack.
 [20Sep2025 02:50:30.203] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4be843f2[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:42997) lost connection: AutoModpack mod for forge modloader is required to play on this server!
 [20Sep2025 02:50:33.418] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:50:39.904] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@125b5417[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:49559) lost connection: Disconnected
+[20Sep2025 02:50:41.200] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:50:41.286] [Netty Epoll Server IO #1/WARN] [AutoModpack/]: Nanami12483 has not installed AutoModpack.
+[20Sep2025 02:50:41.304] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@201492e9[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:48999) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[20Sep2025 02:51:12.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 02:51:12.370] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 02:51:26.880] [Netty Epoll Server IO #2/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:58379: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:51:27.547] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x79f4621a, L:/127.0.0.1:25565 - R:/127.216.201.107:58325] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:51:36.637] [Netty Epoll Server IO #4/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:48363: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:51:37.283] [Netty Epoll Server IO #5/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x075a2b05, L:/127.0.0.1:25565 - R:/127.216.201.107:58779] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:54:48.496] [Netty Epoll Server IO #1/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:54:48.592] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
+[20Sep2025 02:54:48.593] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
+[20Sep2025 02:54:49.213] [Netty Epoll Server IO #2/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:59721: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:54:58.432] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x37fcbc1b, L:/127.0.0.1:25565 - R:/127.216.201.107:47275] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:54:58.653] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7e6dc96[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:54859) lost connection: Disconnected
+[20Sep2025 02:55:04.898] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:55:04.988] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
+[20Sep2025 02:55:04.989] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
+[20Sep2025 02:55:05.643] [Netty Epoll Server IO #5/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:57267: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:55:06.314] [Netty Epoll Server IO #6/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x8530df7e, L:/127.0.0.1:25565 - R:/127.216.201.107:57861] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:06.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2c8988f[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:39099) lost connection: Disconnected
+[20Sep2025 02:55:15.282] [Netty Epoll Server IO #7/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:40271: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:55:15.933] [Netty Epoll Server IO #0/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x906f770e, L:/127.0.0.1:25565 - R:/127.216.201.107:34901] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:16.457] [Netty Epoll Server IO #1/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x2fedbf84, L:/127.0.0.1:25565 - R:/127.216.201.107:50451] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:17.016] [Netty Epoll Server IO #2/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x9b65a6f8, L:/127.0.0.1:25565 - R:/127.216.201.107:59667] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:17.579] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x7f04c6d0, L:/127.0.0.1:25565 - R:/127.216.201.107:37213] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:18.143] [Netty Epoll Server IO #4/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xde49992d, L:/127.0.0.1:25565 - R:/127.216.201.107:57385] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:44.617] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:55:44.742] [Server thread/INFO] [AutoModpack/]: Nanami12483 has installed AutoModpack.
+[20Sep2025 02:55:44.743] [Server thread/INFO] [AutoModpack/]: Sending Nanami12483 modpack host address: :-1
+[20Sep2025 02:55:45.382] [Netty Epoll Server IO #7/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.216.201.107:44885: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 02:55:46.024] [Netty Epoll Server IO #0/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xd79148d3, L:/127.0.0.1:25565 - R:/127.216.201.107:39827] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 02:55:46.283] [Netty Epoll Server IO #6/INFO] [AutoModpack/]: Nanami12483 has installed whole modpack
+[20Sep2025 02:55:46.303] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModData' to 'fml:handshake' sequence 0
+[20Sep2025 02:55:46.353] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
+[20Sep2025 02:55:46.403] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
+[20Sep2025 02:55:46.446] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Recieved login wrapper packet event for channel fml:handshake with index 1
+[20Sep2025 02:55:46.448] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client indexed reply 1 of type net.minecraftforge.network.HandshakeMessages$C2SModListReply
+[20Sep2025 02:55:46.448] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Received client connection with modlist [minecraft, forge, tlskincape, automodpack]
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'architectury:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'parcool:message' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jei:channel' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'carryon:carryonpackets' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:unregister' : Version test of 'FML3' from client : ACCEPTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaerominimap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.449] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedbackpacks:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'citadel:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'iceandfire:main_channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'balm:network' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:loginwrapper' : Version test of 'FML3' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'ribbits:messages' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:tier_sorting' : Version test of '1.0' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'spawn:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sittingplus:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'mca:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'siren_head:siren_head' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:play' : Version test of 'FML3' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'sophisticatedcore:channel' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'gravestone:default' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'fml:handshake' : Version test of 'FML3' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'xaeroworldmap:main' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.450] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'minecraft:register' : Version test of 'FML3' from client : ACCEPTED
+[20Sep2025 02:55:46.451] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'forge:split' : Version test of '1.1' from client : ACCEPTED
+[20Sep2025 02:55:46.451] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'geckolib:main' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.451] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'jade:networking' : Version test of 'ABSENT 🤔' from client : ACCEPTED
+[20Sep2025 02:55:46.451] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channel 'waystones:network' : Version test of 'ABSENT 🤔' from client : REJECTED
+[20Sep2025 02:55:46.451] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [ribbits:messages,spawn:network,sittingplus:network,parcool:message,carryon:carryonpackets,mca:main,siren_head:siren_head,sophisticatedbackpacks:channel,citadel:main_channel,iceandfire:main_channel,sophisticatedcore:channel,geckolib:main,waystones:network] rejected their client side version number
+[20Sep2025 02:55:46.452] [Netty Epoll Server IO #6/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[20Sep2025 02:55:46.453] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.LoginWrapper/FMLHANDSHAKE]: Dispatching wrapped packet reply for channel fml:handshake with index 1
+[20Sep2025 02:55:46.454] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:recipe_serializer' to 'fml:handshake' sequence 3
+[20Sep2025 02:55:46.503] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@dc4e350[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:57811) lost connection: Connection closed - mismatched mod channel list
+[20Sep2025 02:55:51.313] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:56:12.362] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 02:56:12.369] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 02:56:21.004] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@27a85b4c[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:45953) lost connection: Disconnected
+[20Sep2025 02:56:41.624] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 02:56:47.254] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@68a03a8a[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:43311) lost connection: Disconnected
+[20Sep2025 03:01:12.361] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 03:01:12.368] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
