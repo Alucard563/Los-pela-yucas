@@ -6,166 +6,13 @@
   "mcVersion": "1.20.1",
   "list": [
     {
-      "file": "/mods/jei-1.20.1-forge-15.20.0.112.jar",
-      "size": "1385600",
+      "file": "/mods/libraryferret-forge-1.20.1-4.0.0.jar",
+      "size": "190536",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "f12b3781af6337794ae6e010420a97585360ea2f",
-      "murmur": "3362609034"
-    },
-    {
-      "file": "/mods/YungsApi-1.20-Forge-4.0.6.jar",
-      "size": "370524",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
-      "murmur": "2072489450"
-    },
-    {
-      "file": "/mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
-      "size": "33251",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
-      "murmur": "2911560819"
-    },
-    {
-      "file": "/mods/onlyhammers-com.blocklegend001.jar",
-      "size": "31601",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "f20964cc424c4faaf18156717115f2ee485ea061",
-      "murmur": "3310410163"
-    },
-    {
-      "file": "/mods/Jade-1.20.1-Forge-11.13.2.jar",
-      "size": "552486",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
-      "murmur": "305733389"
-    },
-    {
-      "file": "/mods/FarmersDelight-1.20.1-1.2.9.jar",
-      "size": "2978080",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18",
-      "murmur": "4034486801"
-    },
-    {
-      "file": "/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
-      "size": "2612506",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824",
-      "murmur": "1644471708"
-    },
-    {
-      "file": "/mods/ParCool-1.20.1-3.4.1.5.jar",
-      "size": "1133021",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
-      "murmur": "3134352375"
-    },
-    {
-      "file": "/mods/balm-forge-1.20.1-7.3.34-all.jar",
-      "size": "597277",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "dd571104e24e58d9c022ae9e58fbcfa2120b0470",
-      "murmur": "717621446"
-    },
-    {
-      "file": "/mods/Ribbits-1.20.1-Forge-3.0.4.jar",
-      "size": "2218573",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "71ea783348537edaf992366b3be306f9ede9a6d4",
-      "murmur": "571096177"
-    },
-    {
-      "file": "/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
-      "size": "181437",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
-      "murmur": "2854309810"
-    },
-    {
-      "file": "/mods/gravestone-forge-1.20.1-1.0.33.jar",
-      "size": "317148",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "17d669333d32e373188217dca58296323fcd0c90",
-      "murmur": "2368538774"
-    },
-    {
-      "file": "/mods/carryon-forge-1.20.1-2.1.2.7.jar",
-      "size": "439457",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
-      "murmur": "1899432453"
-    },
-    {
-      "file": "/mods/sophisticatedcore-1.20.1-1.2.86.1132.jar",
-      "size": "1341488",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "48919ddb57b6fc6410292e89f4ac0afc79deb83b",
-      "murmur": "2533142274"
-    },
-    {
-      "file": "/mods/citadel-2.6.2-1.20.1.jar",
-      "size": "3185379",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd",
-      "murmur": "633471506"
-    },
-    {
-      "file": "/mods/cameraoverhaul-1.1-1.20.4.jar",
-      "size": "42107",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "adca9d3834c0d188bebef70d54a8f3b34b7731dc",
-      "murmur": "316307042"
-    },
-    {
-      "file": "/mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
-      "size": "21854126",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
-      "murmur": "1655037482"
-    },
-    {
-      "file": "/mods/Siren_head v1.1.4-1.20.1.jar",
-      "size": "11279970",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "e4331aa83c7c0a4359da69455566c3812b9532eb",
-      "murmur": "3255193249"
+      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
+      "murmur": "2890112686"
     },
     {
       "file": "/mods/Animation_Overhaul-forge-1.20.x-1.3.1.jar",
@@ -177,51 +24,6 @@
       "murmur": "3724675975"
     },
     {
-      "file": "/mods/sophisticatedbackpacks-1.20.1-3.24.2.1339.jar",
-      "size": "971630",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "702557657e8f7ffa75650cca77a2fcef61a1103d",
-      "murmur": "2523864677"
-    },
-    {
-      "file": "/mods/geckolib-forge-1.20.1-4.7.4.jar",
-      "size": "1013210",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "db550c1cab6c5e07a592f7881b6772d45626a50d",
-      "murmur": "1584275441"
-    },
-    {
-      "file": "/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
-      "size": "960799",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
-      "murmur": "3696490833"
-    },
-    {
-      "file": "/mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
-      "size": "715179",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "b7df8fec6b076b9b1755754f03fde08349d221d1",
-      "murmur": "1603937582"
-    },
-    {
-      "file": "/mods/cloth-config-11.1.136-forge.jar",
-      "size": "1181413",
-      "type": "mod",
-      "editable": false,
-      "forceCopy": false,
-      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
-      "murmur": "635589968"
-    },
-    {
       "file": "/mods/spawn-2.2 (1).jar",
       "size": "18399758",
       "type": "mod",
@@ -231,22 +33,22 @@
       "murmur": "1304875573"
     },
     {
-      "file": "/mods/sittingplus-2.0.5-1.20.1.jar",
-      "size": "25210",
+      "file": "/mods/bettervillage-forge-1.20.1-3.3.1-all.jar",
+      "size": "2612506",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "4ae4bc07709012b14dc88e7be0fb6fd2a4ce9f77",
-      "murmur": "2635781961"
+      "sha1": "0c2f647cec98c3a4ca6d05b7a2f14962e66ad824",
+      "murmur": "1644471708"
     },
     {
-      "file": "/mods/minecraft-comes-alive-7.6.11+1.20.1-universal.jar",
-      "size": "12806346",
+      "file": "/mods/carryon-forge-1.20.1-2.1.2.7.jar",
+      "size": "439457",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "1eaa5cc1a7deaa868ef988c2ddcbf0af4c422eab",
-      "murmur": "1657102974"
+      "sha1": "9999714ca3dd2f2401f0396ca44f3b27c3784c4f",
+      "murmur": "1899432453"
     },
     {
       "file": "/mods/architectury-9.2.14-forge.jar",
@@ -258,6 +60,78 @@
       "murmur": "98480002"
     },
     {
+      "file": "/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
+      "size": "1723029",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
+      "murmur": "916576203"
+    },
+    {
+      "file": "/mods/jei-1.20.1-forge-15.20.0.112.jar",
+      "size": "1385600",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f12b3781af6337794ae6e010420a97585360ea2f",
+      "murmur": "3362609034"
+    },
+    {
+      "file": "/mods/sittingplus-2.0.5-1.20.1.jar",
+      "size": "25210",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4ae4bc07709012b14dc88e7be0fb6fd2a4ce9f77",
+      "murmur": "2635781961"
+    },
+    {
+      "file": "/mods/player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "size": "181437",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+      "murmur": "2854309810"
+    },
+    {
+      "file": "/mods/tl_skin_cape_forge_1.20_1.20.1-1.32.jar",
+      "size": "715179",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b7df8fec6b076b9b1755754f03fde08349d221d1",
+      "murmur": "1603937582"
+    },
+    {
+      "file": "/mods/cameraoverhaul-1.1-1.20.4.jar",
+      "size": "42107",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "adca9d3834c0d188bebef70d54a8f3b34b7731dc",
+      "murmur": "316307042"
+    },
+    {
+      "file": "/mods/ParCool-1.20.1-3.4.1.5.jar",
+      "size": "1133021",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ad61d32c5185bd9daa43722657af3a8a5aa751a0",
+      "murmur": "3134352375"
+    },
+    {
+      "file": "/mods/Siren_head v1.1.4-1.20.1.jar",
+      "size": "11279970",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e4331aa83c7c0a4359da69455566c3812b9532eb",
+      "murmur": "3255193249"
+    },
+    {
       "file": "/mods/inventoryhud.forge.1.20.1-3.4.26.jar",
       "size": "238088",
       "type": "mod",
@@ -265,6 +139,15 @@
       "forceCopy": false,
       "sha1": "f0adda10a3d6549e6dfdffd41e72270c61c8a302",
       "murmur": "2730214996"
+    },
+    {
+      "file": "/mods/minecraft-comes-alive-7.6.11+1.20.1-universal.jar",
+      "size": "12806346",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1eaa5cc1a7deaa868ef988c2ddcbf0af4c422eab",
+      "murmur": "1657102974"
     },
     {
       "file": "/mods/waystones-forge-1.20.1-14.1.17.jar",
@@ -276,22 +159,139 @@
       "murmur": "2179640189"
     },
     {
-      "file": "/mods/Xaeros_Minimap_25.2.10_Forge_1.20.jar",
-      "size": "1723029",
+      "file": "/mods/Jade-1.20.1-Forge-11.13.2.jar",
+      "size": "552486",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "1f23df114da3a8603dbe4781c07e8acf20f6d1ce",
-      "murmur": "916576203"
+      "sha1": "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c",
+      "murmur": "305733389"
     },
     {
-      "file": "/mods/libraryferret-forge-1.20.1-4.0.0.jar",
-      "size": "190536",
+      "file": "/mods/balm-forge-1.20.1-7.3.34-all.jar",
+      "size": "597277",
       "type": "mod",
       "editable": false,
       "forceCopy": false,
-      "sha1": "29f240c16ff1a1bc574d69162d379cc1c881e1ab",
-      "murmur": "2890112686"
+      "sha1": "dd571104e24e58d9c022ae9e58fbcfa2120b0470",
+      "murmur": "717621446"
+    },
+    {
+      "file": "/mods/geckolib-forge-1.20.1-4.7.4.jar",
+      "size": "1013210",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "db550c1cab6c5e07a592f7881b6772d45626a50d",
+      "murmur": "1584275441"
+    },
+    {
+      "file": "/mods/iceandfire-2.1.13-1.20.1-beta-5.jar",
+      "size": "21854126",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "7e828cbb046ca3d622e92c68f956bd1c0155dc6f",
+      "murmur": "1655037482"
+    },
+    {
+      "file": "/mods/sophisticatedcore-1.20.1-1.2.86.1132.jar",
+      "size": "1341488",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "48919ddb57b6fc6410292e89f4ac0afc79deb83b",
+      "murmur": "2533142274"
+    },
+    {
+      "file": "/mods/onlyhammers-com.blocklegend001.jar",
+      "size": "31601",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f20964cc424c4faaf18156717115f2ee485ea061",
+      "murmur": "3310410163"
+    },
+    {
+      "file": "/mods/sophisticatedbackpacks-1.20.1-3.24.2.1339.jar",
+      "size": "971630",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "702557657e8f7ffa75650cca77a2fcef61a1103d",
+      "murmur": "2523864677"
+    },
+    {
+      "file": "/mods/YungsApi-1.20-Forge-4.0.6.jar",
+      "size": "370524",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "af584b690f5646c6032002b58abc4591beed3833",
+      "murmur": "2072489450"
+    },
+    {
+      "file": "/mods/gravestone-forge-1.20.1-1.0.33.jar",
+      "size": "317148",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "17d669333d32e373188217dca58296323fcd0c90",
+      "murmur": "2368538774"
+    },
+    {
+      "file": "/mods/FarmersDelight-1.20.1-1.2.9.jar",
+      "size": "2978080",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ca9417c369e75d38dacdac59937223e5f6adcc18",
+      "murmur": "4034486801"
+    },
+    {
+      "file": "/mods/Ribbits-1.20.1-Forge-3.0.4.jar",
+      "size": "2218573",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "71ea783348537edaf992366b3be306f9ede9a6d4",
+      "murmur": "571096177"
+    },
+    {
+      "file": "/mods/Necronomicon-Forge-1.6.0+1.20.1.jar",
+      "size": "33251",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf",
+      "murmur": "2911560819"
+    },
+    {
+      "file": "/mods/cloth-config-11.1.136-forge.jar",
+      "size": "1181413",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c65d07748acc57ceb45d53b3964368b84f34d54f",
+      "murmur": "635589968"
+    },
+    {
+      "file": "/mods/XaerosWorldMap_1.39.12_Forge_1.20.jar",
+      "size": "960799",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3c4005a400ba8270738bbe4c573526749ecf2f8f",
+      "murmur": "3696490833"
+    },
+    {
+      "file": "/mods/citadel-2.6.2-1.20.1.jar",
+      "size": "3185379",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "06866f4005d3f6ba63ac01f715b352842d809bbd",
+      "murmur": "633471506"
     }
   ]
 }
