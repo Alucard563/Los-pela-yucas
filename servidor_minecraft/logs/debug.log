@@ -2611,3 +2611,35 @@ java.lang.ClassNotFoundException: org.bouncycastle.jce.provider.BouncyCastleProv
 [20Sep2025 19:54:22.013] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4b0bde31[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:40921) lost connection: AutoModpack mod for forge modloader is required to play on this server!
 [20Sep2025 19:57:45.641] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [20Sep2025 19:57:45.649] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 20:02:45.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 20:02:45.629] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 20:07:45.621] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[20Sep2025 20:07:45.628] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[20Sep2025 20:10:57.112] [Netty Epoll Server IO #2/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 20:10:57.270] [Netty Epoll Server IO #2/WARN] [AutoModpack/]: CJahir27 has not installed AutoModpack.
+[20Sep2025 20:10:57.313] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@148737ef[id=<null>,name=CJahir27,properties={},legacy=false] (/127.107.179.229:40819) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[20Sep2025 20:11:02.358] [Netty Epoll Server IO #5/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 20:11:02.963] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d06d229[id=<null>,name=DogeChileno,properties={},legacy=false] (/127.251.189.227:36395) lost connection: Disconnected
+[20Sep2025 20:11:07.648] [Netty Epoll Server IO #6/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 20:11:07.827] [Netty Epoll Server IO #6/WARN] [AutoModpack/]: CJahir27 has not installed AutoModpack.
+[20Sep2025 20:11:07.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4df7093c[id=<null>,name=CJahir27,properties={},legacy=false] (/127.107.179.229:44195) lost connection: AutoModpack mod for forge modloader is required to play on this server!
+[20Sep2025 20:11:41.642] [Netty Epoll Server IO #0/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 20:11:41.800] [Server thread/INFO] [AutoModpack/]: DogeChileno has installed AutoModpack.
+[20Sep2025 20:11:41.801] [Server thread/INFO] [AutoModpack/]: Sending DogeChileno modpack host address: :-1
+[20Sep2025 20:11:42.535] [Netty Epoll Server IO #1/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.251.189.227:40459: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 20:11:56.925] [Netty Epoll Server IO #2/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.251.189.227:38505: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 20:11:57.519] [Netty Epoll Server IO #3/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.251.189.227:50479: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 20:11:57.520] [Netty Epoll Server IO #0/WARN] [AutoModpack/]: DogeChileno has not installed modpack. Certificate fingerprint: ef7eaf157ac963fcd411b634bdb412d7a11b4d2bebcf54ebf5ce58bf1b087d80
+[20Sep2025 20:11:57.563] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8071694[id=<null>,name=DogeChileno,properties={},legacy=false] (/127.251.189.227:49067) lost connection: [AutoModpack] Install/Update modpack to join
+[20Sep2025 20:11:58.670] [Netty Epoll Server IO #4/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Starting new modded impl connection. Found 26 messages to dispatch.
+[20Sep2025 20:11:58.848] [Server thread/INFO] [AutoModpack/]: DogeChileno has installed AutoModpack.
+[20Sep2025 20:11:58.850] [Server thread/INFO] [AutoModpack/]: Sending DogeChileno modpack host address: :-1
+[20Sep2025 20:11:59.565] [Netty Epoll Server IO #5/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.251.189.227:35341: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 20:12:01.561] [Netty Epoll Server IO #6/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x0a6856e3, L:/127.0.0.1:25565 - R:/127.251.189.227:46087] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 20:12:01.863] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ba5373d[id=<null>,name=DogeChileno,properties={},legacy=false] (/127.251.189.227:57649) lost connection: Disconnected
+[20Sep2025 20:12:08.121] [Netty Epoll Server IO #7/DEBUG] [AutoModpack/]: Error occurred in connection to client at address /127.251.189.227:53099: javax.net.ssl.SSLHandshakeException: Received fatal alert: certificate_unknown
+[20Sep2025 20:12:08.842] [Netty Epoll Server IO #0/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xc6f20032, L:/127.0.0.1:25565 - R:/127.251.189.227:45019] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 20:12:09.396] [Netty Epoll Server IO #1/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xa6d804d0, L:/127.0.0.1:25565 - R:/127.251.189.227:51027] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 20:12:09.988] [Netty Epoll Server IO #2/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x23b8f636, L:/127.0.0.1:25565 - R:/127.251.189.227:34667] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 20:12:10.554] [Netty Epoll Server IO #3/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0xf242fa3b, L:/127.0.0.1:25565 - R:/127.251.189.227:44471] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
+[20Sep2025 20:12:11.111] [Netty Epoll Server IO #4/DEBUG] [io.netty.handler.ssl.SslHandler/]: [id: 0x51710588, L:/127.0.0.1:25565 - R:/127.251.189.227:50791] HANDSHAKEN: protocol:TLSv1.3 cipher suite:TLS_AES_128_GCM_SHA256
