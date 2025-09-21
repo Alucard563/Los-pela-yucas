@@ -3834,3 +3834,53 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 19:35:41.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to CJahir27]
 [21Sep2025 19:35:41.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
 [21Sep2025 19:35:41.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:36:56.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:36:56.383] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:37:25.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported IIlIIIIIIIIIIII to SonJefer]
+[21Sep2025 19:38:49.337] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[21Sep2025 19:38:58.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:38:58.836] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:39:10.079] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:39:10.079] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:40:12.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [A Terrible Fortress]
+[21Sep2025 19:40:26.121] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:40:26.615] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has made the advancement [A Terrible Fortress]
+[21Sep2025 19:40:39.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to DogeChileno]
+[21Sep2025 19:40:41.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno hit the ground too hard
+[21Sep2025 19:40:41.498] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is c0ceaafd-89f1-4caa-85e7-2a997c33593c
+[21Sep2025 19:40:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 was doomed to fall by SonJefer
+[21Sep2025 19:40:41.501] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 73a1d042-f576-4f3b-845b-647026148f36
+[21Sep2025 19:40:43.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:40:43.795] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:40:44.088] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:40:44.088] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:41:12.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII has made the advancement [A Terrible Fortress]
+[21Sep2025 19:41:22.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:41:22.540] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:41:22.540] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:41:56.381] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:41:56.389] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 19:42:03.380] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 19:42:03.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:42:03.740] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:42:04.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno has made the advancement [A Terrible Fortress]
+[21Sep2025 19:42:47.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was doomed to fall by Traverser
+[21Sep2025 19:42:47.085] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is f154a3d6-fe8c-4102-b1a2-9edb1a6fdd4a
+[21Sep2025 19:42:48.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:42:48.898] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:43:29.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII has made the advancement [Into Fire]
+[21Sep2025 19:44:16.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 hit the ground too hard
+[21Sep2025 19:44:16.035] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 68cd4046-c77d-4019-a8f3-65188632efe0
+[21Sep2025 19:44:18.317] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:44:18.317] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:45:04.057] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:45:04.362] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:45:04.364] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:45:08.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 19:45:08.776] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:45:08.776] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:45:25.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno has made the advancement [Hidden in the Depths]
+[21Sep2025 19:46:46.371] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 19:46:54.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:46:56.366] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 19:46:56.374] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
