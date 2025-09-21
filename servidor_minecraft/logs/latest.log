@@ -1475,3 +1475,33 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 18:05:17.944] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> literal
 [21Sep2025 18:05:42.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tengo 2 botellas
 [21Sep2025 18:05:43.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> de
+[21Sep2025 18:05:48.048] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> trueno
+[21Sep2025 18:05:52.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> despues
+[21Sep2025 18:06:04.017] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bueno si es verdad
+[21Sep2025 18:06:15.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pero kiss
+[21Sep2025 18:06:44.464] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> lechuga mke dijo que nos hiba a dar sangre de fuego a cada uno antes que consiguieros el dragon ese
+[21Sep2025 18:07:09.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII has made the advancement [Take Aim]
+[21Sep2025 18:07:25.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q cosa?
+[21Sep2025 18:07:37.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pero namas tengo 2
+[21Sep2025 18:07:46.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> porq le sacaste escamas
+[21Sep2025 18:07:54.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> esperate ahora vengo
+[21Sep2025 18:08:15.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 18:09:05.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to SonJefer]
+[21Sep2025 18:09:14.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> me voy a unir al vc
+[21Sep2025 18:09:17.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> por celular
+[21Sep2025 18:09:29.890] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> dame la sangre
+[21Sep2025 18:09:34.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ya la tenemos la de fuego
+[21Sep2025 18:11:26.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to CJahir27]
+[21Sep2025 18:11:45.131] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 18:11:45.830] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 18:11:48.231] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 18:11:58.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer was slain by Siren Head
+[21Sep2025 18:11:58.632] [Server thread/INFO] [gravestone/]: The death ID of player SonJefer is df2ef931-dc36-47cf-a718-450bb982d55e
+[21Sep2025 18:11:59.835] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 18:11:59.835] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 18:12:53.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonJefer lost connection: Disconnected
+[21Sep2025 18:12:53.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
+[21Sep2025 18:12:53.637] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
+[21Sep2025 18:15:57.082] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 18:15:57.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 412.500000, 4.500000, 816.500000]
+[21Sep2025 18:16:04.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 126.500000, 68.500000, 875.500000]
