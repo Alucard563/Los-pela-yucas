@@ -417,3 +417,113 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 16:49:53.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Sep2025 16:49:53.704] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
 [21Sep2025 16:49:53.705] [Server thread/WARN] [net.minecraft.network.syncher.SynchedEntityData/]: defineId called for: class forge.net.mca.entity.ZombieVillagerEntityMCA from class forge.net.mca.util.network.datasync.CDataParameter
+[21Sep2025 17:04:48.364] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 has made the advancement [Who You Gonna Call?]
+[21Sep2025 17:06:20.170] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: IIlIIIIIIIIIIII[/127.66.115.5:57775] logged in with entity id 6556 at (360.0657943025225, 76.0, 833.6218265851513)
+[21Sep2025 17:06:20.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII joined the game
+[21Sep2025 17:06:20.251] [Server thread/INFO] [Jade/]: Syncing config to IIlIIIIIIIIIIII (81263ea6-dc76-3f9d-94d6-82a93c02fc3b)
+[21Sep2025 17:06:21.395] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 81263ea6-dc76-3f9d-94d6-82a93c02fc3b was loaded
+[21Sep2025 17:06:21.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [IIlIIIIIIIIIIII]
+[21Sep2025 17:06:21.396] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [IIlIIIIIIIIIIII]
+[21Sep2025 17:06:33.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> q paso con las botas
+[21Sep2025 17:11:28.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> volvi
+[21Sep2025 17:11:33.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> lechuga
+[21Sep2025 17:11:37.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> tenes mis 20 diamantes?
+[21Sep2025 17:11:38.284] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> esperate :v
+[21Sep2025 17:11:43.694] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> me faltan 2
+[21Sep2025 17:11:45.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> ok
+[21Sep2025 17:16:50.688] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 17:17:04.252] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 has made the advancement [The Desert Swimmers]
+[21Sep2025 17:17:13.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> kizz
+[21Sep2025 17:17:16.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> necesito ayuda
+[21Sep2025 17:17:20.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> digame
+[21Sep2025 17:17:24.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonJefer[/127.83.229.11:52087] logged in with entity id 16184 at (364.13616522514405, 88.0, 776.1397955112899)
+[21Sep2025 17:17:24.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer joined the game
+[21Sep2025 17:17:24.171] [Server thread/INFO] [Jade/]: Syncing config to SonJefer (e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2)
+[21Sep2025 17:17:24.237] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> tp?
+[21Sep2025 17:17:24.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was loaded
+[21Sep2025 17:17:24.854] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 17:17:24.855] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 17:17:26.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> si queres veni
+[21Sep2025 17:17:31.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> esta bien ya voy
+[21Sep2025 17:17:53.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> lo arregle creo
+[21Sep2025 17:17:56.959] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> wenas
+[21Sep2025 17:18:00.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 17:18:03.010] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> noches
+[21Sep2025 17:18:12.558] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> dittooo
+[21Sep2025 17:18:15.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> q paso
+[21Sep2025 17:18:21.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> mira
+[21Sep2025 17:18:24.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was burnt to a crisp whilst fighting Fire Dragon
+[21Sep2025 17:18:24.247] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 7935cd5a-4a2d-4589-bfb3-5b66aa894641
+[21Sep2025 17:18:25.460] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:18:25.460] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:18:27.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> NAAAA
+[21Sep2025 17:18:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> jaja
+[21Sep2025 17:18:29.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XDD
+[21Sep2025 17:18:39.517] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 17:18:42.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> haceme tp que me lo mato
+[21Sep2025 17:18:51.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> estan peleando con el dragon?
+[21Sep2025 17:18:56.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> ESE ES MI PROBLEMA
+[21Sep2025 17:18:57.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> no
+[21Sep2025 17:18:57.898] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> JAAJAJA
+[21Sep2025 17:19:07.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> con cual estan peleando?
+[21Sep2025 17:19:12.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> Uno q salio de la nada
+[21Sep2025 17:19:19.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> pero no estamos peleando estamos corriendo
+[21Sep2025 17:19:23.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 17:19:29.085] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 17:19:31.382] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 17:19:32.284] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 17:19:39.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> haganme tp
+[21Sep2025 17:19:40.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was incinerated by Fire Dragon
+[21Sep2025 17:19:40.784] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is aca87407-0b1e-428a-88c3-7007d89a4de8
+[21Sep2025 17:19:42.259] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:19:42.259] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:19:49.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 17:19:51.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 17:20:01.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was turned into KFC by Fire Dragon
+[21Sep2025 17:20:01.983] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 159f4171-c5cd-4b4b-a17f-9fe28d7f882d
+[21Sep2025 17:20:03.257] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:20:03.258] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:20:04.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> loco
+[21Sep2025 17:20:08.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> kfc xd
+[21Sep2025 17:20:10.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> mi peor error fue hacerme tp
+[21Sep2025 17:20:37.100] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> kizz
+[21Sep2025 17:20:40.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> que
+[21Sep2025 17:20:41.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> perdoname
+[21Sep2025 17:20:46.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> tranquilo
+[21Sep2025 17:20:47.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> yamevoy
+[21Sep2025 17:20:50.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> a comer
+[21Sep2025 17:20:52.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 17:20:53.247] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> buenas
+[21Sep2025 17:21:12.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ok
+[21Sep2025 17:21:16.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> dsp vuelvo
+[21Sep2025 17:21:17.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> provecho
+[21Sep2025 17:21:19.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> oks
+[21Sep2025 17:21:21.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <IIlIIIIIIIIIIII> graciass
+[21Sep2025 17:21:23.449] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIlIIIIIIIIIIII lost connection: Disconnected
+[21Sep2025 17:21:23.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII left the game
+[21Sep2025 17:21:23.451] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 81263ea6-dc76-3f9d-94d6-82a93c02fc3b was unloaded
+[21Sep2025 17:21:25.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was incinerated by Fire Dragon
+[21Sep2025 17:21:25.389] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 7fdc8e92-d182-4059-9be7-7b469e4ba537
+[21Sep2025 17:21:26.792] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:21:26.792] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:21:33.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ese dragon de mrd
+[21Sep2025 17:21:33.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 17:21:41.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ki<< es uno de la superficie?
+[21Sep2025 17:21:45.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> kizz*
+[21Sep2025 17:21:47.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> es de fuego
+[21Sep2025 17:21:54.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> pero ven a matarlo
+[21Sep2025 17:22:01.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> voy
+[21Sep2025 17:22:15.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ni se dnd estan
+[21Sep2025 17:22:24.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> estoy buscando mi muerte
+[21Sep2025 17:22:52.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> cords?
+[21Sep2025 17:23:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss tu no te podias tpear a tu muerte en el otro mundo?
+[21Sep2025 17:23:26.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was incinerated by Fire Dragon
+[21Sep2025 17:23:26.934] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 9cd03ec3-9603-4976-bbbf-0633b6b7c1fb
+[21Sep2025 17:23:28.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:23:28.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:23:32.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ya vi
+[21Sep2025 17:24:00.990] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 walked into fire whilst fighting Fire Dragon
+[21Sep2025 17:24:00.991] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 4e1eb71d-a977-43f9-bdf8-91f125bbb207
+[21Sep2025 17:24:02.433] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 17:24:02.433] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 17:24:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> pinshi rata me agarro y me tiro desde arriba

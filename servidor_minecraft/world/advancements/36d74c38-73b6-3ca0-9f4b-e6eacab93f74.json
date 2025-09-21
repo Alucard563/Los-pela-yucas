@@ -9,6 +9,7 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-21 02:17:02 +0000",
       "minecraft:deep_ocean": "2025-09-21 03:07:03 +0000",
+      "minecraft:wooded_badlands": "2025-09-21 17:13:48 +0000",
       "minecraft:savanna_plateau": "2025-09-21 02:16:49 +0000",
       "minecraft:beach": "2025-09-21 03:09:03 +0000",
       "minecraft:stony_peaks": "2025-09-21 03:03:51 +0000",
@@ -18,9 +19,11 @@
       "minecraft:lukewarm_ocean": "2025-09-21 03:08:54 +0000",
       "minecraft:stony_shore": "2025-09-21 03:09:04 +0000",
       "minecraft:forest": "2025-09-18 18:08:21 +0000",
+      "minecraft:desert": "2025-09-21 17:14:38 +0000",
       "minecraft:jungle": "2025-09-20 23:17:38 +0000",
       "minecraft:ocean": "2025-09-21 03:06:13 +0000",
       "minecraft:windswept_savanna": "2025-09-20 23:18:57 +0000",
+      "minecraft:warm_ocean": "2025-09-21 17:15:31 +0000",
       "minecraft:savanna": "2025-09-21 02:16:03 +0000",
       "minecraft:plains": "2025-09-20 23:19:24 +0000"
     },
@@ -3964,6 +3967,42 @@
   "artifacts:chest_slayer": {
     "criteria": {
       "kill_mimic": "2025-09-21 04:12:23 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_boots": {
+    "criteria": {
+      "has_item": "2025-09-21 17:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_helmet": {
+    "criteria": {
+      "has_item": "2025-09-21 17:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_deathworm": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-21 17:17:04 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 17:17:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_ghost": {
+    "criteria": {
+      "killed_fire_dragon": "2025-09-21 17:04:48 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/deathworm_yellow_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 17:17:05 +0000"
     },
     "done": true
   },
