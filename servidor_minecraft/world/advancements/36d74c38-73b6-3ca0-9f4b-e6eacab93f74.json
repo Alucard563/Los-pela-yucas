@@ -10,6 +10,7 @@
       "minecraft:snowy_slopes": "2025-09-21 02:17:02 +0000",
       "minecraft:deep_ocean": "2025-09-21 03:07:03 +0000",
       "minecraft:wooded_badlands": "2025-09-21 17:13:48 +0000",
+      "minecraft:badlands": "2025-09-21 17:41:38 +0000",
       "minecraft:savanna_plateau": "2025-09-21 02:16:49 +0000",
       "minecraft:beach": "2025-09-21 03:09:03 +0000",
       "minecraft:stony_peaks": "2025-09-21 03:03:51 +0000",
@@ -19,6 +20,7 @@
       "minecraft:lukewarm_ocean": "2025-09-21 03:08:54 +0000",
       "minecraft:stony_shore": "2025-09-21 03:09:04 +0000",
       "minecraft:forest": "2025-09-18 18:08:21 +0000",
+      "minecraft:lush_caves": "2025-09-21 17:53:22 +0000",
       "minecraft:desert": "2025-09-21 17:14:38 +0000",
       "minecraft:jungle": "2025-09-20 23:17:38 +0000",
       "minecraft:ocean": "2025-09-21 03:06:13 +0000",
@@ -67,8 +69,10 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-09-21 17:47:29 +0000",
       "minecraft:skeleton": "2025-09-21 02:02:29 +0000",
       "minecraft:spider": "2025-09-21 00:59:53 +0000",
+      "minecraft:creeper": "2025-09-21 17:47:49 +0000",
       "minecraft:cave_spider": "2025-09-21 04:06:12 +0000",
       "minecraft:zombie": "2025-09-20 23:13:18 +0000"
     },
@@ -3759,6 +3763,7 @@
   "farmersdelight:main/plant_all_crops": {
     "criteria": {
       "tomato": "2025-09-21 03:36:04 +0000",
+      "beetroot": "2025-09-21 17:43:00 +0000",
       "potato": "2025-09-21 17:29:02 +0000",
       "carrot": "2025-09-21 17:28:52 +0000"
     },
@@ -3974,9 +3979,27 @@
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_helmet": {
+    "criteria": {
+      "has_item": "2025-09-21 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
     },
     "done": true
   },
@@ -3992,9 +4015,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/red_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_yellow_boots": {
     "criteria": {
       "has_item": "2025-09-21 17:17:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
     },
     "done": true
   },
@@ -4010,9 +4045,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/light_blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/glass": {
+    "criteria": {
+      "has_smelts_to_glass": "2025-09-21 17:59:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 17:42:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
     },
     "done": true
   },
@@ -4028,9 +4087,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/chiseled_sandstone": {
+    "criteria": {
+      "has_sandstone_slab": "2025-09-21 17:36:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/dark_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_copper_to_dragonscale_copper": {
+    "criteria": {
+      "has_dragonscales_copper": "2025-09-21 18:02:45 +0000"
     },
     "done": true
   },
@@ -4040,9 +4111,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/blue_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-09-21 18:04:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-21 17:59:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_boots": {
+    "criteria": {
+      "has_item": "2025-09-21 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lightning_rod": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-21 17:41:02 +0000"
     },
     "done": true
   },
@@ -4070,6 +4177,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/barbecue_stick": {
+    "criteria": {
+      "has_tomato": "2025-09-21 17:42:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/green_picket_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
@@ -4079,6 +4192,12 @@
   "cfm:recipes/decorations/red_picket_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/kill_if_dragon": {
+    "criteria": {
+      "killed_lightning_dragon": "2025-09-21 18:02:39 +0000"
     },
     "done": true
   },
@@ -4124,15 +4243,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lime_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/copper_block": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-21 17:41:02 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/light_gray_picket_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
     },
     "done": true
   },
+  "iceandfire:recipes/combat/armor_copper_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-21 18:02:45 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/deathworm_red_leggings": {
     "criteria": {
       "has_item": "2025-09-21 17:25:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/brush": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-21 17:41:02 +0000"
     },
     "done": true
   },
@@ -4145,6 +4294,12 @@
   "cfm:recipes/decorations/black_picket_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/tomato_crate": {
+    "criteria": {
+      "has_tomato": "2025-09-21 17:42:53 +0000"
     },
     "done": true
   },
@@ -4178,9 +4333,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magenta_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 17:42:52 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_crimson_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/divine_retribution": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-21 17:41:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
     },
     "done": true
   },
@@ -4190,9 +4369,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/cooking/tomato_sauce": {
+    "criteria": {
+      "has_tomato": "2025-09-21 17:42:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/sandstone": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 17:42:52 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/tomato_seeds": {
+    "criteria": {
+      "has_tomato": "2025-09-21 17:42:53 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_jungle_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/soul_reflector": {
+    "criteria": {
+      "has_copper_ingot": "2025-09-21 17:41:02 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-09-21 17:42:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/plant_seed": {
+    "criteria": {
+      "beetroots": "2025-09-21 17:43:00 +0000"
     },
     "done": true
   },
@@ -4208,6 +4441,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/purple_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
@@ -4217,6 +4456,24 @@
   "cfm:recipes/decorations/stripped_warped_upgraded_gate": {
     "criteria": {
       "has_gate": "2025-09-21 17:29:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_concrete_powder": {
+    "criteria": {
+      "has_sand": "2025-09-21 18:04:17 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_copper_leggings": {
+    "criteria": {
+      "has_item": "2025-09-21 18:02:45 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_ingot_to_nuggets": {
+    "criteria": {
+      "has_item": "2025-09-21 17:41:02 +0000"
     },
     "done": true
   },
