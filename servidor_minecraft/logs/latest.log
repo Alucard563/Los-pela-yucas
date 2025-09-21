@@ -1877,3 +1877,55 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 21:46:02.758] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
 [21Sep2025 21:46:12.332] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=0, y=103, z=2}
 [21Sep2025 21:46:21.520] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported CJahir27 to DogeChileno]
+[21Sep2025 21:52:59.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has made the advancement [Crops of the Wild]
+[21Sep2025 21:56:35.278] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonJefer[/127.83.229.11:56819] logged in with entity id 41957 at (362.2814678192717, 88.0, 771.5325062729944)
+[21Sep2025 21:56:35.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer joined the game
+[21Sep2025 21:56:35.334] [Server thread/INFO] [Jade/]: Syncing config to SonJefer (e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2)
+[21Sep2025 21:56:35.607] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was loaded
+[21Sep2025 21:56:35.608] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 21:56:35.608] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 21:58:22.246] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved too quickly! 7.977832480557652,-1.4129092804170114,-5.942662525617038
+[21Sep2025 22:00:28.866] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 lost connection: Disconnected
+[21Sep2025 22:00:28.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 left the game
+[21Sep2025 22:00:28.867] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was unloaded
+[21Sep2025 22:00:32.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno hit the ground too hard whilst trying to escape Fire Dragon
+[21Sep2025 22:00:32.151] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 5cff44e4-252c-4119-80be-e4661ffbd778
+[21Sep2025 22:00:33.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 22:00:33.594] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 22:01:25.875] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJahir27[/127.107.179.229:32989] logged in with entity id 43071 at (382.7449533924027, 86.0, 779.405034220649)
+[21Sep2025 22:01:25.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 joined the game
+[21Sep2025 22:01:25.941] [Server thread/INFO] [Jade/]: Syncing config to CJahir27 (7152aaaf-d0e4-3190-8dfc-d6020334e09f)
+[21Sep2025 22:01:26.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was loaded
+[21Sep2025 22:01:26.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 22:01:26.523] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 22:01:35.693] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 22:01:35.693] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 22:03:57.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nanami12483[/127.216.201.107:47171] logged in with entity id 43359 at (424.64647559084057, 80.0, 727.8994358757119)
+[21Sep2025 22:03:57.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 joined the game
+[21Sep2025 22:03:57.646] [Server thread/INFO] [Jade/]: Syncing config to Nanami12483 (36d74c38-73b6-3ca0-9f4b-e6eacab93f74)
+[21Sep2025 22:03:58.122] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 36d74c38-73b6-3ca0-9f4b-e6eacab93f74 was loaded
+[21Sep2025 22:03:58.122] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 22:03:58.122] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 22:05:09.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss
+[21Sep2025 22:05:13.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nos perdonas?
+[21Sep2025 22:05:20.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ???
+[21Sep2025 22:05:22.544] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> de?
+[21Sep2025 22:05:39.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> mira ven
+[21Sep2025 22:05:43.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss
+[21Sep2025 22:05:48.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> bonita casa
+[21Sep2025 22:05:51.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has reached the goal [Dinner's Served!]
+[21Sep2025 22:05:56.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> esta es una cocina
+[21Sep2025 22:06:02.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> veni
+[21Sep2025 22:06:09.326] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ok
+[21Sep2025 22:06:10.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> se esta haciendo apena
+[21Sep2025 22:06:29.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ay mi madre
+[21Sep2025 22:06:40.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> jasajasjs
+[21Sep2025 22:07:20.116] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> yo me que de sin cama mamawebo
+[21Sep2025 22:07:29.069] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 22:07:37.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
+[21Sep2025 22:08:13.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> deja haga yo la cocina
+[21Sep2025 22:08:20.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> la decore
+[21Sep2025 22:08:27.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss
+[21Sep2025 22:08:30.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> siento que alguien ya me dijo pol mujer
+[21Sep2025 22:08:32.144] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> diga
+[21Sep2025 22:09:03.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
