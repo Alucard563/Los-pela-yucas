@@ -461,3 +461,56 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 19:22:40.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
 [21Sep2025 19:25:32.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
 [21Sep2025 19:25:53.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIlIIIIIIIIIIII moved wrongly!
+[21Sep2025 19:26:33.623] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII fell from a high place
+[21Sep2025 19:26:33.624] [Server thread/INFO] [gravestone/]: The death ID of player IIlIIIIIIIIIIII is b4cc9b77-02db-4be6-bcb3-2cbc0bf12483
+[21Sep2025 19:26:35.993] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [IIlIIIIIIIIIIII]
+[21Sep2025 19:26:35.993] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [IIlIIIIIIIIIIII]
+[21Sep2025 19:26:52.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [IIlIIIIIIIIIIII]
+[21Sep2025 19:26:52.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [IIlIIIIIIIIIIII]
+[21Sep2025 19:27:20.622] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported IIlIIIIIIIIIIII to SonJefer]
+[21Sep2025 19:27:54.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 fell from a high place
+[21Sep2025 19:27:54.958] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 7f448ac4-14f0-4501-a5f8-47b6b3a474f3
+[21Sep2025 19:27:57.041] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:27:57.041] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:28:08.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:28:09.022] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:28:09.022] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:28:48.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported IIlIIIIIIIIIIII to SonJefer]
+[21Sep2025 19:28:53.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 19:30:26.251] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 19:30:26.252] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 19:31:50.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[21Sep2025 19:31:50.221] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 8c47b24e-421c-4cec-abba-d90342bfd014
+[21Sep2025 19:31:51.949] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:31:51.949] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:32:05.883] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:32:05.884] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:32:16.684] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 19:32:16.685] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 19:32:45.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to IIlIIIIIIIIIIII]
+[21Sep2025 19:32:58.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[21Sep2025 19:32:58.730] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 60b2d0e6-042a-42a0-83d8-506291582e1b
+[21Sep2025 19:33:00.603] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:33:00.603] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:33:06.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported SonJefer to IIlIIIIIIIIIIII]
+[21Sep2025 19:33:17.082] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to IIlIIIIIIIIIIII]
+[21Sep2025 19:33:20.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:33:20.931] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:33:33.831] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved too quickly! 8.776293100502954,3.252203340253729,3.824488051307952
+[21Sep2025 19:33:39.022] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved too quickly! -6.45192941259171,-8.215112138004699,3.141633140245375
+[21Sep2025 19:33:42.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 tried to swim in lava
+[21Sep2025 19:33:42.764] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 0320c5db-a2ba-4185-a7ec-aeda1fa0eba8
+[21Sep2025 19:33:45.343] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:33:45.344] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:33:52.750] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 19:33:52.750] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 19:34:25.653] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: DogeChileno[/127.251.189.227:39057] logged in with entity id 5286 at (363.5060760063264, 88.0, 774.102591489484)
+[21Sep2025 19:34:25.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno joined the game
+[21Sep2025 19:34:25.662] [Server thread/INFO] [Jade/]: Syncing config to DogeChileno (a5eb3baf-f6dd-307e-a452-2b18d1ccdd40)
+[21Sep2025 19:34:26.636] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a5eb3baf-f6dd-307e-a452-2b18d1ccdd40 was loaded
+[21Sep2025 19:34:26.636] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:34:26.636] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 19:35:41.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno has made the advancement [We Need to Go Deeper]
+[21Sep2025 19:35:41.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to CJahir27]
+[21Sep2025 19:35:41.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 19:35:41.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
