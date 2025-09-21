@@ -1608,3 +1608,7 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 20:25:22.833] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
 [21Sep2025 20:28:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
 [21Sep2025 20:37:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DogeChileno a server operator
+[21Sep2025 20:41:39.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 20:41:39.821] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is f548ea46-5df6-49c1-9bd1-5f2db0b7e5ff
+[21Sep2025 20:41:41.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 20:41:41.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
