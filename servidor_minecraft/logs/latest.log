@@ -1570,3 +1570,19 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 20:06:35.135] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
 [21Sep2025 20:06:35.135] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
 [21Sep2025 20:06:49.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 20:07:58.216] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIlIIIIIIIIIIII lost connection: Disconnected
+[21Sep2025 20:07:58.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII left the game
+[21Sep2025 20:07:58.218] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 81263ea6-dc76-3f9d-94d6-82a93c02fc3b was unloaded
+[21Sep2025 20:15:03.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was struck by lightning
+[21Sep2025 20:15:03.916] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is b933893d-f763-47c1-b004-b20cbd33db93
+[21Sep2025 20:15:23.117] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer burned to death
+[21Sep2025 20:15:23.117] [Server thread/INFO] [gravestone/]: The death ID of player SonJefer is 33aca5db-f63f-4187-ade2-7aa2485b91ae
+[21Sep2025 20:15:24.839] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 20:15:24.840] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 20:15:30.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[21Sep2025 20:15:31.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 20:15:31.011] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 20:15:57.917] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 20:15:57.917] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 20:15:59.162] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 20:15:59.162] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]

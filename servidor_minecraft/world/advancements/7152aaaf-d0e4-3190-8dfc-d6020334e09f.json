@@ -3473,9 +3473,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/baked_potato_from_grill_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-21 20:07:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2025-09-21 19:20:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_campfire_cooking": {
+    "criteria": {
+      "has_potato": "2025-09-21 20:07:27 +0000"
     },
     "done": true
   },
@@ -3518,6 +3530,12 @@
   "minecraft:recipes/food/baked_potato": {
     "criteria": {
       "has_the_recipe": "2025-09-21 20:01:15 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-21 20:07:24 +0000"
     },
     "done": true
   },
@@ -3566,6 +3584,12 @@
   "minecraft:recipes/building_blocks/nether_brick_stairs_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal_from_bone_block": {
+    "criteria": {
+      "has_bone_block": "2025-09-21 20:07:35 +0000"
     },
     "done": true
   },
@@ -3626,6 +3650,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/baked_potato_from_smoking": {
+    "criteria": {
+      "has_potato": "2025-09-21 20:07:27 +0000"
     },
     "done": true
   },
@@ -3710,6 +3740,12 @@
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-09-21 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-21 20:08:40 +0000"
     },
     "done": true
   },
