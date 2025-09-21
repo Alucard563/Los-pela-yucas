@@ -527,3 +527,70 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 17:24:02.433] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
 [21Sep2025 17:24:02.433] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
 [21Sep2025 17:24:13.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> pinshi rata me agarro y me tiro desde arriba
+[21Sep2025 17:25:09.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> me encontre a un dragon de fuego cerca de la base
+[21Sep2025 17:25:15.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> es ese
+[21Sep2025 17:25:23.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> paso arriba mio
+[21Sep2025 17:25:26.896] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> es color bronze?
+[21Sep2025 17:25:34.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> si con rojo
+[21Sep2025 17:25:40.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> si es ese
+[21Sep2025 17:25:48.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bueno esta cerca de la aldea
+[21Sep2025 17:25:56.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> esta qeumando cabalos
+[21Sep2025 17:26:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 1730.500000, 64.500000, 836.500000]
+[21Sep2025 17:26:27.145] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Trevor'/22007, l='ServerLevel[world]', x=1777.13, y=63.00, z=766.31] died, message: 'Trevor was energized by Lightning Dragon'
+[21Sep2025 17:26:27.146] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Trevor'/22007, l='ServerLevel[world]', x=1777.13, y=63.00, z=766.31] died: Trevor was struck with lightning by Lightning Dragon
+[21Sep2025 17:27:28.154] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss
+[21Sep2025 17:27:33.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> encontre tu muerte
+[21Sep2025 17:27:34.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> digame
+[21Sep2025 17:27:38.300] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tpeate ami
+[21Sep2025 17:27:40.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ya reclame todo
+[21Sep2025 17:27:43.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> nono tranqui
+[21Sep2025 17:27:45.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> a bueno
+[21Sep2025 17:27:45.616] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> esa es otra
+[21Sep2025 17:27:53.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> gracias gabriel
+[21Sep2025 17:27:57.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bueno
+[21Sep2025 17:27:57.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> tqm que lo sepas
+[21Sep2025 17:28:04.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ty
+[21Sep2025 17:28:09.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ojo
+[21Sep2025 17:28:12.432] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[21Sep2025 17:28:14.506] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ojo q
+[21Sep2025 17:28:16.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 17:28:26.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> hola
+[21Sep2025 17:29:08.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> zombi chiquito
+[21Sep2025 17:29:23.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> es divertido jugar en 3ra persona
+[21Sep2025 17:29:33.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> si
+[21Sep2025 17:29:33.733] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Gerard'/21973, l='ServerLevel[world]', x=1753.86, y=65.13, z=803.10] died, message: 'Gerard was slain by Lightning Dragon'
+[21Sep2025 17:29:33.734] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Gerard'/21973, l='ServerLevel[world]', x=1753.86, y=65.13, z=803.10] died: Gerard was slain by Lightning Dragon
+[21Sep2025 17:29:44.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> eso es verdad
+[21Sep2025 17:30:07.447] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has made the advancement [Take Aim]
+[21Sep2025 17:30:09.792] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> estoy buscando vacas para reproducirlas
+[21Sep2025 17:30:25.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> vamos a por el dragon
+[21Sep2025 17:30:34.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> aca esta
+[21Sep2025 17:30:54.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ven spawn
+[21Sep2025 17:31:03.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has made the advancement [Sweet Dreams]
+[21Sep2025 17:31:28.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bueno mejor no no quiero morir
+[21Sep2025 17:31:45.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was struck with lightning by Lightning Dragon
+[21Sep2025 17:31:45.783] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 3b14b0d0-1359-4690-a7e8-faed40af07ea
+[21Sep2025 17:31:48.517] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:31:48.517] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:31:49.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> xd
+[21Sep2025 17:31:55.183] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 1730.500000, 64.500000, 836.500000]
+[21Sep2025 17:31:55.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> otro dragon kiss?
+[21Sep2025 17:31:57.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 17:32:29.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 was burnt to a crisp whilst fighting Fire Dragon
+[21Sep2025 17:32:29.299] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 1e25acfc-adfb-4ae2-96e7-a96f0def1d5e
+[21Sep2025 17:32:30.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 17:32:30.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 17:33:01.190] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was struck with lightning by Lightning Dragon
+[21Sep2025 17:33:01.191] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 6a0bc669-dbf5-4619-9d30-ec24689db0da
+[21Sep2025 17:33:02.707] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 17:33:02.707] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 17:33:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 1730.500000, 64.500000, 836.500000]
+[21Sep2025 17:33:24.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 walked into fire whilst fighting Fire Dragon
+[21Sep2025 17:33:24.697] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is a10e6696-6ab7-48a8-ab97-0dd262601da6
+[21Sep2025 17:33:26.455] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 17:33:26.455] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 17:34:08.841] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 was incinerated by Fire Dragon
+[21Sep2025 17:34:08.841] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 3725d362-ea82-418f-a328-3ba9afee450e
+[21Sep2025 17:34:10.571] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 17:34:10.572] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 17:34:32.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [The Parrots and the Bats]
