@@ -185,6 +185,7 @@
       "cooked_porkchop": "2025-09-21 01:28:40 +0000",
       "cooked_mutton": "2025-09-21 17:48:33 +0000",
       "cooked_beef": "2025-09-21 04:18:55 +0000",
+      "baked_potato": "2025-09-21 20:25:28 +0000",
       "apple": "2025-09-21 00:05:15 +0000",
       "potato": "2025-09-21 18:53:42 +0000",
       "bread": "2025-09-20 23:54:51 +0000",
@@ -5094,6 +5095,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/steak_and_potatoes": {
+    "criteria": {
+      "has_baked_potato": "2025-09-21 20:25:25 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
@@ -5265,6 +5272,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-09-21 19:52:31 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/stuffed_potato": {
+    "criteria": {
+      "has_baked_potato": "2025-09-21 20:25:25 +0000"
     },
     "done": true
   },
