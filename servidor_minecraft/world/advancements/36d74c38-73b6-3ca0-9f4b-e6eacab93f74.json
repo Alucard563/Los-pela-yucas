@@ -66,6 +66,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-09-21 02:02:29 +0000",
       "minecraft:spider": "2025-09-21 00:59:53 +0000",
+      "minecraft:cave_spider": "2025-09-21 04:06:12 +0000",
       "minecraft:zombie": "2025-09-20 23:13:18 +0000"
     },
     "done": false
@@ -3420,9 +3421,21 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-21 04:12:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-21 03:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-21 04:10:27 +0000"
     },
     "done": true
   },
@@ -3468,6 +3481,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-09-21 04:10:27 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-21 03:32:55 +0000"
@@ -3492,6 +3511,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_blasting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 04:03:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/rose_gold_dust": {
+    "criteria": {
+      "has_item": "2025-09-21 04:03:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 03:37:44 +0000"
@@ -3513,6 +3544,12 @@
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-09-21 03:37:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-09-21 04:07:44 +0000"
     },
     "done": true
   },
@@ -3546,6 +3583,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-09-21 04:07:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-21 03:32:55 +0000"
@@ -3561,6 +3604,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-21 03:32:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-09-21 04:07:44 +0000"
     },
     "done": true
   },
@@ -3678,6 +3727,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_grill_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-09-21 04:07:44 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/advanced_filter_upgrade": {
     "criteria": {
       "has_filter_upgrade": "2025-09-21 03:33:03 +0000"
@@ -3720,6 +3775,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 04:03:41 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-09-21 03:32:55 +0000"
@@ -3741,6 +3802,12 @@
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-21 03:26:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_gold_block": {
+    "criteria": {
+      "has_raw_gold": "2025-09-21 04:03:41 +0000"
     },
     "done": true
   },

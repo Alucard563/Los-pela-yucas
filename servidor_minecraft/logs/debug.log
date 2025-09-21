@@ -4135,3 +4135,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 04:02:13.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q te perdonen de q?
 [21Sep2025 04:02:39.953] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Sep2025 04:02:39.961] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:04:38.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 04:07:39.946] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:07:39.954] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:12:23.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 has made the advancement [Chest Slayer]
+[21Sep2025 04:12:24.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ditto
+[21Sep2025 04:12:29.612] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tenes un fortuna 3?
+[21Sep2025 04:12:39.951] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:12:39.960] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:12:46.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> si tenes un fortuna 3?
+[21Sep2025 04:12:59.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> se te escuhca doble por jahir
+[21Sep2025 04:13:03.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> por lechuga
+[21Sep2025 04:17:33.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 drowned
+[21Sep2025 04:17:33.425] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is b858ffe1-ab36-44ba-8917-fdb5baa97fa6
+[21Sep2025 04:17:39.555] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 04:17:39.556] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 04:17:39.958] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:17:39.967] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:17:45.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 04:19:11.312] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 drowned
+[21Sep2025 04:19:11.313] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is f839c2e0-2f09-48a1-86ca-a62b2335df69
+[21Sep2025 04:19:12.914] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 04:19:12.914] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 04:19:20.266] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 04:22:39.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:22:39.972] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:23:04.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to 126.500000, 68.500000, 875.500000]
+[21Sep2025 04:23:17.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported IIlIIIIIIIIIIII to Nanami12483]
+[21Sep2025 04:25:05.737] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> shhh
+[21Sep2025 04:27:13.269] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q te dieron?
+[21Sep2025 04:27:20.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 was burnt to a crisp whilst fighting IIlIIIIIIIIIIII
+[21Sep2025 04:27:20.517] [Server thread/INFO] [gravestone/]: The death ID of player Nanami12483 is 874a92a3-ddea-497d-a1ae-61f216838bb4
+[21Sep2025 04:27:21.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[21Sep2025 04:27:21.819] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[21Sep2025 04:27:27.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to IIlIIIIIIIIIIII]
+[21Sep2025 04:27:39.956] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:27:39.964] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:28:16.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> kiss
+[21Sep2025 04:28:17.413] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nanami12483 lost connection: Disconnected
+[21Sep2025 04:28:17.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 left the game
+[21Sep2025 04:28:17.414] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 36d74c38-73b6-3ca0-9f4b-e6eacab93f74 was unloaded
+[21Sep2025 04:28:55.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: IIlIIIIIIIIIIII lost connection: Disconnected
+[21Sep2025 04:28:55.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: IIlIIIIIIIIIIII left the game
+[21Sep2025 04:28:55.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 81263ea6-dc76-3f9d-94d6-82a93c02fc3b was unloaded
+[21Sep2025 04:32:39.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:32:39.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
