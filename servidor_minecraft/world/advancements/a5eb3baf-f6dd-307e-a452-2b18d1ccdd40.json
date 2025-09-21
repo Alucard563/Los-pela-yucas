@@ -3734,6 +3734,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/decorations/oak_cabinet": {
+    "criteria": {
+      "has_oak_trapdoor": "2025-09-21 20:51:47 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/solar_crystal_leggings": {
     "criteria": {
       "has_item": "2025-09-21 19:45:25 +0000"

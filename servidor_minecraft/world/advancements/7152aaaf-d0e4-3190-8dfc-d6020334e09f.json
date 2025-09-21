@@ -3469,6 +3469,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-21 19:28:38 +0000"
@@ -3505,6 +3511,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/rabbit_stew": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 19:21:41 +0000"
@@ -3514,6 +3526,24 @@
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3589,6 +3619,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/composter": {
+    "criteria": {
+      "has_wood_slab": "2025-09-21 20:49:22 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:55:09 +0000"
@@ -3598,6 +3640,12 @@
   "farmersdelight:recipes/cooking/vegetable_noodles": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 19:21:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3655,6 +3703,18 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-09-21 20:07:35 +0000"
@@ -3667,15 +3727,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3690,6 +3768,12 @@
       "carrot": "2025-09-21 20:34:41 +0000"
     },
     "done": false
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
     "criteria": {
@@ -3721,6 +3805,30 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
@@ -3730,6 +3838,12 @@
   "doggytalents:recipes/decorations/beastars_uniform_male": {
     "criteria": {
       "has_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3751,6 +3865,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/roasted_mutton_chops": {
     "criteria": {
       "has_mutton": "2025-09-21 20:28:44 +0000"
@@ -3760,6 +3886,12 @@
   "minecraft:recipes/decorations/light_gray_bed": {
     "criteria": {
       "has_light_gray_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3787,6 +3919,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton": {
     "criteria": {
       "has_mutton": "2025-09-21 20:27:42 +0000"
@@ -3796,6 +3940,12 @@
   "doggytalents:recipes/decorations/conan_suit": {
     "criteria": {
       "has_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3829,6 +3979,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
@@ -3838,6 +3994,12 @@
   "minecraft:recipes/transportation/carrot_on_a_stick": {
     "criteria": {
       "has_carrot": "2025-09-21 19:21:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3856,6 +4018,12 @@
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3889,9 +4057,39 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:55:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -3979,9 +4177,21 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },
@@ -4006,6 +4216,24 @@
   "farmersdelight:recipes/cooking/vegetable_soup": {
     "criteria": {
       "has_any_ingredient": "2025-09-21 19:21:41 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:49:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:49:17 +0000"
     },
     "done": true
   },

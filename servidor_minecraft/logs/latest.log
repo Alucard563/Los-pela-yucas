@@ -1612,3 +1612,8 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 20:41:39.821] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is f548ea46-5df6-49c1-9bd1-5f2db0b7e5ff
 [21Sep2025 20:41:41.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
 [21Sep2025 20:41:41.152] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 20:50:40.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was burnt to a crisp whilst fighting SonJefer
+[21Sep2025 20:50:40.819] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 2284b961-38dc-413b-a869-4eba7afd7051
+[21Sep2025 20:50:42.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 20:50:42.226] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 20:54:37.628] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> afk
