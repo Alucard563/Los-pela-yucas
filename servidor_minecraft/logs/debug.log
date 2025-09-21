@@ -4180,3 +4180,7 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 04:28:55.457] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 81263ea6-dc76-3f9d-94d6-82a93c02fc3b was unloaded
 [21Sep2025 04:32:39.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [21Sep2025 04:32:39.933] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:37:39.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:37:39.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[21Sep2025 04:42:39.924] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[21Sep2025 04:42:39.931] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
