@@ -1817,3 +1817,40 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 21:28:35.379] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is c564e1db-1dd3-45e9-8c3d-17a6c269cc69
 [21Sep2025 21:28:36.748] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
 [21Sep2025 21:28:36.748] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 21:30:13.076] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonJefer[/127.83.229.11:60549] logged in with entity id 36000 at (419.8459263588681, -1.0, 818.3745975213297)
+[21Sep2025 21:30:13.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer joined the game
+[21Sep2025 21:30:13.131] [Server thread/INFO] [Jade/]: Syncing config to SonJefer (e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2)
+[21Sep2025 21:30:13.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was loaded
+[21Sep2025 21:30:13.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 21:30:13.238] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 21:30:21.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported SonJefer to DogeChileno]
+[21Sep2025 21:33:06.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 21:33:06.820] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is fcf8cb82-ad0a-4c71-8304-d73da2a928b6
+[21Sep2025 21:33:06.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer was burnt to a crisp whilst fighting DogeChileno
+[21Sep2025 21:33:06.824] [Server thread/INFO] [gravestone/]: The death ID of player SonJefer is 5834eacf-24e0-4ccc-8047-766f844ac788
+[21Sep2025 21:33:06.829] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 21:33:06.829] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 6a59cabb-7220-43f7-9d32-bdfc27473078
+[21Sep2025 21:33:08.146] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 21:33:08.147] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 21:33:08.650] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 21:33:08.650] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 21:33:17.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported SonJefer to DogeChileno]
+[21Sep2025 21:33:28.920] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported DogeChileno to CJahir27]
+[21Sep2025 21:36:13.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 has made the advancement [Hunt and Gather]
+[21Sep2025 21:36:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[21Sep2025 21:36:19.488] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 5ff99c5c-2891-41f5-ac10-7385a1fbd310
+[21Sep2025 21:36:21.500] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 21:36:21.500] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 21:36:41.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported CJahir27 to DogeChileno]
+[21Sep2025 21:36:47.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to DogeChileno]
+[21Sep2025 21:37:16.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported DogeChileno to CJahir27]
+[21Sep2025 21:37:18.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 21:37:18.818] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 8abac059-4c80-4d8d-9fd8-4cdbac878491
+[21Sep2025 21:37:20.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 21:37:20.121] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 21:37:21.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[21Sep2025 21:37:21.818] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 2460db43-b44e-4e88-bbf1-1a1293438a99
+[21Sep2025 21:37:23.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 21:37:23.279] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 21:37:25.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno has made the advancement [Hunt and Gather]
+[21Sep2025 21:37:38.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported CJahir27 to DogeChileno]
