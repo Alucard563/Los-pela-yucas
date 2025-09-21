@@ -429,3 +429,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [21Sep2025 05:08:17.116] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
 [21Sep2025 05:09:58.050] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=343, y=72, z=862} BlockPos{x=340, y=70, z=863}
 [21Sep2025 05:10:27.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno has made the advancement [Not Today, Thank You]
+[21Sep2025 05:15:10.981] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was slain by SonJefer
+[21Sep2025 05:15:10.982] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 7eb8d382-388a-47fc-a42d-9d44d2b1e5ee
+[21Sep2025 05:15:12.267] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 05:15:12.268] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 05:22:04.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogeChileno lost connection: Disconnected
+[21Sep2025 05:22:04.324] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno left the game
+[21Sep2025 05:22:04.325] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a5eb3baf-f6dd-307e-a452-2b18d1ccdd40 was unloaded
