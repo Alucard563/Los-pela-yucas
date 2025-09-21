@@ -23,10 +23,12 @@
       "minecraft:river": "2025-09-18 22:09:48 +0000",
       "minecraft:dripstone_caves": "2025-09-21 02:11:01 +0000",
       "minecraft:forest": "2025-09-18 21:59:34 +0000",
+      "minecraft:lush_caves": "2025-09-21 02:38:24 +0000",
       "minecraft:desert": "2025-09-18 22:33:11 +0000",
       "minecraft:jungle": "2025-09-18 22:07:25 +0000",
       "minecraft:windswept_savanna": "2025-09-20 23:47:28 +0000",
       "minecraft:warm_ocean": "2025-09-18 22:39:04 +0000",
+      "minecraft:deep_dark": "2025-09-21 02:35:45 +0000",
       "minecraft:plains": "2025-09-18 22:09:53 +0000"
     },
     "done": false
@@ -1150,6 +1152,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-09-18 22:59:28 +0000",
+      "minecraft:spider": "2025-09-21 02:29:50 +0000",
       "minecraft:cave_spider": "2025-09-21 02:18:26 +0000",
       "minecraft:zombie": "2025-09-21 00:16:00 +0000"
     },
@@ -3441,6 +3444,18 @@
     },
     "done": true
   },
+  "artifacts:chest_slayer": {
+    "criteria": {
+      "kill_mimic": "2025-09-21 02:39:15 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-09-21 02:53:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_warped_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
@@ -3450,6 +3465,12 @@
   "cfm:recipes/decorations/stripped_crimson_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/shrinking_mallet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3465,9 +3486,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/golden_axe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/combat/lunar_stone_chestplate": {
     "criteria": {
       "has_item": "2025-09-21 02:19:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_pickaxe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3513,6 +3546,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_nugget": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/diorite_slab": {
     "criteria": {
       "has_diorite": "2025-09-21 02:10:20 +0000"
@@ -3522,6 +3561,12 @@
   "doggytalents:recipes/decorations/pianist_suit": {
     "criteria": {
       "has_string": "2025-09-21 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_shovel": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3549,15 +3594,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/golden_apple": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_mangrove_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_boots": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_slab_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-21 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_helmet": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3639,6 +3702,12 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-09-21 02:31:50 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/rock_path": {
     "criteria": {
       "has_andesite": "2025-09-21 02:10:23 +0000"
@@ -3663,6 +3732,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/golden_chestplate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_rei": {
     "criteria": {
       "has_string": "2025-09-21 02:18:27 +0000"
@@ -3678,6 +3753,12 @@
   "minecraft:recipes/misc/bone_meal": {
     "criteria": {
       "has_bone": "2025-09-21 02:11:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/magnifying_bone": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3723,6 +3804,12 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/combat/golden_knife": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/candle": {
     "criteria": {
       "has_string": "2025-09-21 02:18:27 +0000"
@@ -3738,6 +3825,12 @@
   "minecraft:recipes/building_blocks/polished_granite_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-21 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/canine_tracker": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -3768,6 +3861,12 @@
   "cfm:recipes/decorations/acacia_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/activator_rail": {
+    "criteria": {
+      "has_rail": "2025-09-21 02:29:44 +0000"
     },
     "done": true
   },
@@ -3807,6 +3906,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-21 02:53:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-21 02:11:03 +0000"
@@ -3834,6 +3945,12 @@
   "cfm:recipes/decorations/gray_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/detector_rail": {
+    "criteria": {
+      "has_rail": "2025-09-21 02:29:44 +0000"
     },
     "done": true
   },
@@ -3912,6 +4029,12 @@
   "minecraft:recipes/building_blocks/granite_stairs_from_granite_stonecutting": {
     "criteria": {
       "has_granite": "2025-09-21 02:10:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-21 02:53:42 +0000"
     },
     "done": true
   },
@@ -4071,9 +4194,33 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-21 02:30:20 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/birch_kitchen_sink_light": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_sword": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/avoid_vibration": {
+    "criteria": {
+      "avoid_vibration": "2025-09-21 02:33:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gold_block": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -4104,6 +4251,12 @@
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-09-21 02:11:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-21 02:53:42 +0000"
     },
     "done": true
   },
@@ -4143,6 +4296,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/axolotl_in_a_bucket": {
+    "criteria": {
+      "axolotl_bucket": "2025-09-21 02:38:19 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/yellow_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
@@ -4164,6 +4323,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-09-21 02:10:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/golden_hoe": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
     },
     "done": true
   },
@@ -4221,6 +4386,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-09-21 02:34:38 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/decorations/locator_orb_gi": {
     "criteria": {
       "has_string": "2025-09-21 02:18:27 +0000"
@@ -4245,6 +4416,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/powered_rail": {
+    "criteria": {
+      "has_rail": "2025-09-21 02:29:44 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-09-21 02:53:42 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/cyan_kitchen_sink": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
@@ -4257,6 +4440,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/mojang_banner_pattern": {
+    "criteria": {
+      "has_enchanted_golden_apple": "2025-09-21 02:30:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/golden_leggings": {
+    "criteria": {
+      "has_gold_ingot": "2025-09-21 03:00:40 +0000"
+    },
+    "done": true
+  },
   "cfm:recipes/decorations/stripped_spruce_kitchen_sink_dark": {
     "criteria": {
       "has_bucket": "2025-09-21 02:07:58 +0000"
@@ -4266,6 +4461,12 @@
   "doggytalents:recipes/decorations/locator_orb_dyable": {
     "criteria": {
       "has_string": "2025-09-21 02:18:27 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-09-21 02:30:20 +0000"
     },
     "done": true
   },
