@@ -797,10 +797,12 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2025-09-21 18:41:47 +0000",
+      "cooked_mutton": "2025-09-21 20:28:48 +0000",
       "cooked_beef": "2025-09-21 01:35:06 +0000",
       "beef": "2025-09-21 01:16:18 +0000",
       "baked_potato": "2025-09-21 20:05:12 +0000",
       "melon_slice": "2025-09-21 01:29:50 +0000",
+      "cooked_chicken": "2025-09-21 20:32:13 +0000",
       "enchanted_golden_apple": "2025-09-21 20:00:03 +0000",
       "carrot": "2025-09-21 19:23:15 +0000"
     },
@@ -3473,6 +3475,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/misc/family_tree": {
+    "criteria": {
+      "has_item": "2025-09-21 20:29:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/baked_potato_from_grill_cooking": {
     "criteria": {
       "has_potato": "2025-09-21 20:07:27 +0000"
@@ -3533,9 +3547,33 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roast_chicken_block": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-21 20:30:11 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-09-21 20:07:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/black_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:28:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2025-09-21 20:28:01 +0000"
     },
     "done": true
   },
@@ -3569,6 +3607,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_grill_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
@@ -3587,6 +3637,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2025-09-21 20:28:01 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/lab_coat": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bone_meal_from_bone_block": {
     "criteria": {
       "has_bone_block": "2025-09-21 20:07:35 +0000"
@@ -3599,9 +3661,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-21 19:28:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "carrot": "2025-09-21 20:34:41 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
     },
     "done": true
   },
@@ -3623,9 +3703,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_male": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2025-09-21 20:28:01 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/silver_nugget_to_silver_ingot": {
+    "criteria": {
+      "has_silver_nugget": "2025-09-21 20:33:15 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:55:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_bed": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-21 20:27:42 +0000"
     },
     "done": true
   },
@@ -3644,6 +3760,30 @@
   "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/conan_suit": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
     },
     "done": true
   },
@@ -3689,6 +3829,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_polished_blackstone_bricks_stonecutting": {
     "criteria": {
       "has_polished_blackstone_bricks": "2025-09-21 19:28:38 +0000"
@@ -3698,6 +3856,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/white_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:29:59 +0000"
     },
     "done": true
   },
@@ -3725,9 +3889,51 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/light_gray_banner": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/light_gray_sofa": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-09-21 20:28:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab_from_nether_bricks_stonecutting": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:55:09 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-09-21 20:28:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet": {
+    "criteria": {
+      "has_light_gray_wool": "2025-09-21 20:27:42 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chicken_sandwich": {
+    "criteria": {
+      "has_cooked_chicken": "2025-09-21 20:30:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 20:29:59 +0000"
     },
     "done": true
   },
@@ -3737,9 +3943,27 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/dog_plushie_toy_item": {
+    "criteria": {
+      "has_white_wool": "2025-09-21 20:29:59 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/mushroom_stew": {
     "criteria": {
       "has_red_mushroom": "2025-09-21 19:42:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-09-21 20:33:07 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/building_blocks/dog_bed_def": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:27:42 +0000"
     },
     "done": true
   },
@@ -3764,6 +3988,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:28:41 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/beastars_uniform_female": {
+    "criteria": {
+      "has_wool": "2025-09-21 20:29:59 +0000"
     },
     "done": true
   },

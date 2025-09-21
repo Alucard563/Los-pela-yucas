@@ -5089,9 +5089,33 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_chair": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_coffee_table": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5113,6 +5137,12 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
@@ -5122,6 +5152,12 @@
   "iceandfire:iceandfire/dragonbone_tool": {
     "criteria": {
       "tool": "2025-09-21 19:51:00 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/black_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5149,6 +5185,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-21 20:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
@@ -5167,15 +5209,51 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/magenta_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-21 20:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
     },
     "done": true
   },
+  "mca:recipes/decorations/lime_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-09-21 19:47:03 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_kitchen_counter": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/gray_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5197,15 +5275,63 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_park_bench": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_table": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/smooth_basalt": {
     "criteria": {
       "has_basalt": "2025-09-21 19:21:16 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_bedside_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cracked_nether_bricks": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/orange_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/yellow_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/purple_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5227,6 +5353,24 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/red_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/pink_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
@@ -5239,9 +5383,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blackstone_slab": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5251,15 +5407,45 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_crate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
     },
     "done": true
   },
+  "cfm:recipes/decorations/jungle_desk_cabinet": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
     "criteria": {
       "has_basalt": "2025-09-21 19:21:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/brown_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/light_blue_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5272,6 +5458,12 @@
   "minecraft:recipes/brewing/blaze_powder": {
     "criteria": {
       "has_blaze_rod": "2025-09-21 19:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5305,9 +5497,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 20:36:24 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/green_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-09-21 20:36:24 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/jungle_desk": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },
@@ -5323,6 +5539,18 @@
     },
     "done": true
   },
+  "mca:recipes/decorations/white_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "mca:recipes/decorations/cyan_jungle_crib": {
+    "criteria": {
+      "has_jungle_planks": "2025-09-21 20:34:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-09-21 19:21:16 +0000"
@@ -5332,6 +5560,12 @@
   "minecraft:recipes/brewing/brewing_stand": {
     "criteria": {
       "has_blaze_rod": "2025-09-21 19:52:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-09-21 20:34:11 +0000"
     },
     "done": true
   },

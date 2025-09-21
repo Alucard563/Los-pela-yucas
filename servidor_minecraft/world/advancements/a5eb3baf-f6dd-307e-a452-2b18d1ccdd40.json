@@ -3590,6 +3590,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_upgraded_gate": {
+    "criteria": {
+      "has_log": "2025-09-21 20:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:58:02 +0000"
@@ -3617,6 +3623,12 @@
   "iceandfire:recipes/building_blocks/dragonscales_bronze_to_dragonscale_bronze": {
     "criteria": {
       "has_dragonscales_bronze": "2025-09-21 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_upgraded_fence": {
+    "criteria": {
+      "has_log": "2025-09-21 20:35:19 +0000"
     },
     "done": true
   },
@@ -3662,9 +3674,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/oak_hanging_sign": {
+    "criteria": {
+      "has_stripped_logs": "2025-09-21 20:35:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/red_nether_bricks": {
     "criteria": {
       "has_nether_wart": "2025-09-21 19:47:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-09-21 20:34:37 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_dark": {
+    "criteria": {
+      "has_bottom": "2025-09-21 20:35:19 +0000"
     },
     "done": true
   },
@@ -3719,6 +3749,12 @@
   "minecraft:recipes/misc/iron_ingot_from_iron_block": {
     "criteria": {
       "has_iron_block": "2025-09-21 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "cfm:recipes/decorations/stripped_oak_kitchen_sink_light": {
+    "criteria": {
+      "has_bottom": "2025-09-21 20:35:19 +0000"
     },
     "done": true
   },
@@ -3782,6 +3818,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/stripped_oak_wood": {
+    "criteria": {
+      "has_log": "2025-09-21 20:35:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/dragonbone_sword_fire": {
     "criteria": {
       "has_item": "2025-09-21 19:45:25 +0000"
@@ -3812,6 +3854,12 @@
     },
     "done": true
   },
+  "cfm:recipes/decorations/stripped_oak_blinds": {
+    "criteria": {
+      "has_log": "2025-09-21 20:35:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_bronze_helmet": {
     "criteria": {
       "has_item": "2025-09-21 19:45:25 +0000"
@@ -3821,6 +3869,12 @@
   "minecraft:recipes/decorations/anvil": {
     "criteria": {
       "has_iron_block": "2025-09-21 19:45:25 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-21 20:29:04 +0000"
     },
     "done": true
   },

@@ -1606,3 +1606,5 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 20:25:22.329] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
 [21Sep2025 20:25:22.832] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
 [21Sep2025 20:25:22.833] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 20:28:48.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 20:37:21.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Made DogeChileno a server operator
