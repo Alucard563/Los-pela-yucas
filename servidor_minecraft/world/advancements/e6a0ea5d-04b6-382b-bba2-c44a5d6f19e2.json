@@ -21,11 +21,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-09-21 02:17:15 +0000",
       "minecraft:wooded_badlands": "2025-09-21 17:54:01 +0000",
+      "minecraft:bamboo_jungle": "2025-09-21 22:41:23 +0000",
       "minecraft:badlands": "2025-09-21 17:56:24 +0000",
       "minecraft:savanna_plateau": "2025-09-21 02:17:06 +0000",
       "minecraft:mangrove_swamp": "2025-09-20 23:59:01 +0000",
       "minecraft:sparse_jungle": "2025-09-21 02:08:03 +0000",
       "minecraft:river": "2025-09-20 23:52:47 +0000",
+      "minecraft:lukewarm_ocean": "2025-09-21 22:43:55 +0000",
       "minecraft:stony_shore": "2025-09-21 03:57:54 +0000",
       "minecraft:dripstone_caves": "2025-09-21 01:40:44 +0000",
       "minecraft:forest": "2025-09-20 23:49:58 +0000",
@@ -5588,15 +5590,99 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-21 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_dried_kelp": {
+    "criteria": {
+      "has_raw_item": "2025-09-21 22:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-21 22:36:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-21 22:09:17 +0000"
     },
     "done": true
   },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-09-21 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/hamburger": {
+    "criteria": {
+      "has_beef_patty": "2025-09-21 22:20:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-21 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/master_chef": {
+    "criteria": {
+      "cooked_rice": "2025-09-21 22:33:49 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/brick": {
     "criteria": {
       "has_clay_ball": "2025-09-21 22:09:17 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-21 22:33:49 +0000"
     },
     "done": true
   },

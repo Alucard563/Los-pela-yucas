@@ -1972,3 +1972,114 @@ java.lang.NullPointerException: Cannot invoke "net.minecraft.world.entity.Entity
 [21Sep2025 22:18:07.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nuevesito
 [21Sep2025 22:18:23.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> bruh
 [21Sep2025 22:19:07.691] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> vengan afuer
+[21Sep2025 22:20:38.971] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> termino medio?
+[21Sep2025 22:20:47.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> yes
+[21Sep2025 22:20:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> dios
+[21Sep2025 22:21:01.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> mimi carne we
+[21Sep2025 22:21:05.445] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[21Sep2025 22:21:10.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> desaparecio
+[21Sep2025 22:21:12.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 has reached the goal [Dinner's Served!]
+[21Sep2025 22:21:25.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> es enserio
+[21Sep2025 22:21:50.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
+[21Sep2025 22:23:05.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ando disociada desde que me uni
+[21Sep2025 22:23:13.024] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> por
+[21Sep2025 22:23:14.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> asi que no ando viendo las cosas bien
+[21Sep2025 22:23:47.223] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported SonJefer to DogeChileno]
+[21Sep2025 22:24:05.865] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nanami12483 lost connection: Disconnected
+[21Sep2025 22:24:05.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 left the game
+[21Sep2025 22:24:05.865] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 36d74c38-73b6-3ca0-9f4b-e6eacab93f74 was unloaded
+[21Sep2025 22:24:26.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> tenes oro?
+[21Sep2025 22:26:06.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> mira
+[21Sep2025 22:28:22.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> quien quiere diamantes?
+[21Sep2025 22:28:51.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer was burnt to a crisp whilst fighting CJahir27
+[21Sep2025 22:28:51.414] [Server thread/INFO] [gravestone/]: The death ID of player SonJefer is 19d09ac9-4a54-4fe0-9cee-b747be31362a
+[21Sep2025 22:28:52.587] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 22:28:52.587] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 22:29:08.863] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 22:29:08.863] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 9e49f630-c82a-41b9-97c3-0d0d8f7abcad
+[21Sep2025 22:29:12.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer burned to death
+[21Sep2025 22:29:12.102] [Server thread/INFO] [gravestone/]: The death ID of player SonJefer is a0f6136b-f0fc-4d20-903a-ccc25b4bce82
+[21Sep2025 22:29:13.324] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[21Sep2025 22:29:13.324] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[21Sep2025 22:29:13.324] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=362, y=87, z=772}
+[21Sep2025 22:29:30.915] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 was slain by SonJefer
+[21Sep2025 22:29:30.916] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 28e65c59-4c28-498a-81c2-a5872260493e
+[21Sep2025 22:29:32.883] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 22:29:32.883] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 22:29:56.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 22:30:08.976] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported DogeChileno to SonJefer]
+[21Sep2025 22:33:10.721] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 22:33:10.721] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 22:33:45.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 was burnt to a crisp whilst fighting DogeChileno
+[21Sep2025 22:33:45.215] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 75d30c7f-9fe9-4181-b58e-60c3d302993e
+[21Sep2025 22:33:46.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 22:33:46.876] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 22:34:00.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno burned to death
+[21Sep2025 22:34:00.458] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 06067d24-4dd2-4938-853a-e40fbe4dccf1
+[21Sep2025 22:34:00.463] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was slain by SonJefer
+[21Sep2025 22:34:00.463] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 4e31d126-11f5-4f3e-ba7f-cca464389eb6
+[21Sep2025 22:34:01.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[21Sep2025 22:34:01.773] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[21Sep2025 22:34:44.065] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 lost connection: Timed out
+[21Sep2025 22:34:44.065] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 left the game
+[21Sep2025 22:34:44.065] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was unloaded
+[21Sep2025 22:35:10.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJahir27[/127.107.179.229:48213] logged in with entity id 49020 at (357.30000001192093, 88.0, 777.0279992715931)
+[21Sep2025 22:35:10.731] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 joined the game
+[21Sep2025 22:35:10.780] [Server thread/INFO] [Jade/]: Syncing config to CJahir27 (7152aaaf-d0e4-3190-8dfc-d6020334e09f)
+[21Sep2025 22:35:11.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was loaded
+[21Sep2025 22:35:11.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[21Sep2025 22:35:11.882] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[21Sep2025 22:36:11.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [Voluntary Exile]
+[21Sep2025 22:40:54.896] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.4470915521686152
+[21Sep2025 22:40:54.935] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.7713779118871571
+[21Sep2025 22:40:55.008] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.0972335056462157
+[21Sep2025 22:40:55.079] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4033575693784428
+[21Sep2025 22:40:55.126] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.7316521317322326
+[21Sep2025 22:40:55.153] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 2.081934874214369
+[21Sep2025 22:40:55.257] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 2.390875354471177
+[21Sep2025 22:40:55.357] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 2.7004513013922633
+[21Sep2025 22:40:55.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 3.075033476854685
+[21Sep2025 22:40:55.395] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 3.4276608079387643
+[21Sep2025 22:40:55.643] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 4.035731447158014
+[21Sep2025 22:40:55.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 4.538710076351663
+[21Sep2025 22:40:55.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 4.892126635730335
+[21Sep2025 22:40:55.747] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 5.245689435889744
+[21Sep2025 22:40:55.787] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 5.59935372632566
+[21Sep2025 22:40:55.837] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 5.953084476794118
+[21Sep2025 22:40:55.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 6.306850096746416
+[21Sep2025 22:40:55.840] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 6.660625667638271
+[21Sep2025 22:40:56.756] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.2821938765513892
+[21Sep2025 22:40:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.775] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3080257547366614
+[21Sep2025 22:40:56.776] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.142290784069246
+[21Sep2025 22:40:56.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3338576329219336
+[21Sep2025 22:40:56.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3338576329219336
+[21Sep2025 22:40:56.826] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3338576329219336
+[21Sep2025 22:40:56.827] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.1662371803431029
+[21Sep2025 22:40:56.934] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.0485767462167814
+[21Sep2025 22:40:56.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.9035476686295283
+[21Sep2025 22:40:56.976] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.7313002229554968
+[21Sep2025 22:40:57.025] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.5836334133983883
+[21Sep2025 22:40:57.047] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4371851456630225
+[21Sep2025 22:40:57.049] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.2625229363117114
+[21Sep2025 22:40:57.104] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.1126420345353267
+[21Sep2025 22:40:57.144] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.9618122217699465
+[21Sep2025 22:40:57.189] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 0.8101283891371054
+[21Sep2025 22:40:57.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4048105385154486
+[21Sep2025 22:40:57.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4048105385154486
+[21Sep2025 22:40:57.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4048105385154486
+[21Sep2025 22:40:57.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.4048105385154486
+[21Sep2025 22:40:57.256] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3364999626834333
+[21Sep2025 22:40:57.308] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3837101459503174
+[21Sep2025 22:40:57.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3626097533851862
+[21Sep2025 22:40:57.327] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of CJahir27) moved wrongly! 1.3626097533851862
+[21Sep2025 22:43:22.296] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-704, y=49, z=584} BlockPos{x=-704, y=50, z=584}
+[21Sep2025 22:46:02.428] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported SonJefer to DogeChileno]
