@@ -95,6 +95,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-09-21 17:49:05 +0000",
+      "minecraft:blaze": "2025-09-21 19:52:29 +0000",
       "minecraft:skeleton": "2025-09-21 02:43:42 +0000",
       "minecraft:ghast": "2025-09-21 19:37:06 +0000",
       "minecraft:magma_cube": "2025-09-21 19:20:13 +0000",
@@ -187,6 +188,7 @@
       "apple": "2025-09-21 00:05:15 +0000",
       "potato": "2025-09-21 18:53:42 +0000",
       "bread": "2025-09-20 23:54:51 +0000",
+      "golden_apple": "2025-09-21 19:58:57 +0000",
       "rotten_flesh": "2025-09-21 02:11:22 +0000",
       "salmon": "2025-09-21 01:28:19 +0000",
       "melon_slice": "2025-09-21 02:20:31 +0000",
@@ -4966,6 +4968,7 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
+      "minecraft:crimson_forest": "2025-09-21 19:49:15 +0000",
       "minecraft:nether_wastes": "2025-09-21 18:50:51 +0000",
       "minecraft:soul_sand_valley": "2025-09-21 19:34:08 +0000"
     },
@@ -5097,15 +5100,45 @@
     },
     "done": true
   },
+  "minecraft:nether/obtain_blaze_rod": {
+    "criteria": {
+      "blaze_rod": "2025-09-21 19:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_stairs": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
     },
     "done": true
   },
+  "iceandfire:iceandfire/dragonbone_tool": {
+    "criteria": {
+      "tool": "2025-09-21 19:51:00 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/nether_brick_slab": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template_smithing_trim": {
+    "criteria": {
+      "has_smithing_trim_template": "2025-09-21 19:48:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2025-09-21 19:47:03 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragonbone_flaming_sword": {
+    "criteria": {
+      "sword": "2025-09-21 19:51:07 +0000"
     },
     "done": true
   },
@@ -5130,6 +5163,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2025-09-21 19:47:03 +0000"
     },
     "done": true
   },
@@ -5223,9 +5262,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/brewing/blaze_powder": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-21 19:52:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-09-21 19:27:53 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/diamond_hippogryph_armor": {
+    "criteria": {
+      "has_item": "2025-09-21 19:48:52 +0000"
     },
     "done": true
   },
@@ -5235,9 +5286,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/rib_armor_trim_smithing_template": {
+    "criteria": {
+      "has_rib_armor_trim_smithing_template": "2025-09-21 19:48:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/nether_brick_wall": {
     "criteria": {
       "has_nether_bricks": "2025-09-21 19:43:16 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-21 20:06:07 +0000"
     },
     "done": true
   },
@@ -5250,6 +5313,12 @@
   "minecraft:recipes/building_blocks/polished_basalt": {
     "criteria": {
       "has_basalt": "2025-09-21 19:21:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/brewing_stand": {
+    "criteria": {
+      "has_blaze_rod": "2025-09-21 19:52:31 +0000"
     },
     "done": true
   },
