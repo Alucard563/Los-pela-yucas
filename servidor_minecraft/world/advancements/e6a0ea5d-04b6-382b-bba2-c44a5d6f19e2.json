@@ -5968,6 +5968,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/fedora": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-22 23:03:48 +0000"
+    },
+    "done": true
+  },
   "celestisynth:recipes/misc/supernal_netherite_ingot_smithing": {
     "criteria": {
       "has_item": "2025-09-22 22:26:13 +0000"
@@ -5977,6 +5983,18 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-09-22 22:26:13 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/chef_hat": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-22 23:03:48 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/demon_horns": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-22 23:03:48 +0000"
     },
     "done": true
   },
@@ -6064,6 +6082,12 @@
     },
     "done": true
   },
+  "doggytalents:recipes/decorations/deer_antlers": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-22 23:03:48 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/misc/amnesia_bone": {
     "criteria": {
       "has_netherite_ingot": "2025-09-22 22:26:13 +0000"
@@ -6097,6 +6121,12 @@
   "minecraft:recipes/decorations/pink_banner": {
     "criteria": {
       "has_pink_wool": "2025-09-22 22:47:16 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/bunny_ears": {
+    "criteria": {
+      "has_leather_helmet": "2025-09-22 23:03:48 +0000"
     },
     "done": true
   },
