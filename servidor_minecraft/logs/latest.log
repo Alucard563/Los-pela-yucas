@@ -832,3 +832,48 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 21:58:16.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> no si quieres mira la transmision
 [22Sep2025 21:58:26.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q lag q tengo
 [22Sep2025 21:59:23.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> chileno acordate cuando nos morimos todos una vez y utilizas te spectator no me voy a olvidar q estabamos lechuga yo y vos
+[22Sep2025 22:02:31.331] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonJefer lost connection: Disconnected
+[22Sep2025 22:02:31.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
+[22Sep2025 22:02:31.332] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
+[22Sep2025 22:05:58.634] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonJefer[/127.215.183.112:37347] logged in with entity id 23705 at (20.69999998807907, 59.0, 172.30000001192093)
+[22Sep2025 22:05:58.645] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer joined the game
+[22Sep2025 22:05:58.649] [Server thread/INFO] [Jade/]: Syncing config to SonJefer (e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2)
+[22Sep2025 22:05:59.054] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was loaded
+[22Sep2025 22:05:59.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[22Sep2025 22:05:59.055] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[22Sep2025 22:06:33.436] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> perras
+[22Sep2025 22:06:36.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> estupidas
+[22Sep2025 22:06:39.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> vollvi
+[22Sep2025 22:06:47.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [DogeChileno: Teleported DogeChileno to Nanami12483]
+[22Sep2025 22:06:50.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q paso?
+[22Sep2025 22:06:55.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> na que casi me muero
+[22Sep2025 22:06:56.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> porq el perras estupida
+[22Sep2025 22:07:08.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> te salve la vida
+[22Sep2025 22:07:11.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> agradece kizzy
+[22Sep2025 22:07:28.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> xd
+[22Sep2025 22:07:47.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> afk
+[22Sep2025 22:08:03.120] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[22Sep2025 22:08:03.120] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[22Sep2025 22:08:11.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[22Sep2025 22:08:11.232] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[22Sep2025 22:08:13.477] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [Hidden in the Depths]
+[22Sep2025 22:08:18.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> yesir
+[22Sep2025 22:08:23.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ea
+[22Sep2025 22:08:24.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> vamo
+[22Sep2025 22:08:26.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> los
+[22Sep2025 22:08:30.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pibes
+[22Sep2025 22:10:51.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> hola
+[22Sep2025 22:10:57.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> eu chileno
+[22Sep2025 22:10:59.484] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> consegui
+[22Sep2025 22:11:01.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 22:11:03.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> netherite
+[22Sep2025 22:11:04.025] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Nanami12483 lost connection: Disconnected
+[22Sep2025 22:11:04.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 left the game
+[22Sep2025 22:11:04.025] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 36d74c38-73b6-3ca0-9f4b-e6eacab93f74 was unloaded
+[22Sep2025 22:11:07.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> buena
+[22Sep2025 22:11:32.925] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> como asi
+[22Sep2025 22:11:35.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> hdp
+[22Sep2025 22:11:53.878] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nah
+[22Sep2025 22:11:56.538] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> me quedo
+[22Sep2025 22:11:58.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> chau
+[22Sep2025 22:12:11.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> chau
