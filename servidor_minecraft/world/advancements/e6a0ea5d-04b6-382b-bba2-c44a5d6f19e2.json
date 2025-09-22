@@ -5686,5 +5686,23 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/rice_bowl_smelting": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 17:42:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smoking": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 17:42:12 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_camping": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 17:42:12 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
