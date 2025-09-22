@@ -5932,5 +5932,17 @@
     },
     "done": true
   },
+  "iceandfire:recipes/decorations/copper_pile": {
+    "criteria": {
+      "has_item": "2025-09-22 21:16:25 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/copper_nuggets_to_ingot": {
+    "criteria": {
+      "has_item": "2025-09-22 21:16:25 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
