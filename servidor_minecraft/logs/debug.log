@@ -4053,3 +4053,63 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 20:50:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> por que isieron esto?
 [22Sep2025 20:50:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> aca
 [22Sep2025 20:50:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> xd
+[22Sep2025 20:50:57.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> y esto paque?
+[22Sep2025 20:51:06.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 20:51:09.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> mucho mejor
+[22Sep2025 20:51:12.027] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 20:51:12.035] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 20:51:24.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> COMOOOO
+[22Sep2025 20:51:36.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ANILLO DE COMPROMISOOO?
+[22Sep2025 20:51:40.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bro
+[22Sep2025 20:51:49.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> Quien sera el gay?
+[22Sep2025 20:51:54.147] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 20:51:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> para q lo quitas men?
+[22Sep2025 20:52:36.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> coño necesito hueso negro
+[22Sep2025 20:52:44.926] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> alguien tiene?
+[22Sep2025 20:52:45.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pero tengo yo voy a quitar los bloques que estan alrededores
+[22Sep2025 20:52:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> y eso queda espacioso
+[22Sep2025 20:53:01.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> tu tienes?
+[22Sep2025 20:53:15.323] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 lost connection: Timed out
+[22Sep2025 20:53:15.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 left the game
+[22Sep2025 20:53:15.323] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was unloaded
+[22Sep2025 20:53:28.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> tienes
+[22Sep2025 20:53:30.670] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q
+[22Sep2025 20:53:38.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> nada ya
+[22Sep2025 20:53:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> perdiendo tiempo nada mas
+[22Sep2025 20:53:49.130] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ??
+[22Sep2025 20:53:54.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 has made the advancement [We Need to Go Deeper]
+[22Sep2025 20:53:54.123] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[22Sep2025 20:53:54.123] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[22Sep2025 20:54:35.979] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonJefer lost connection: Disconnected
+[22Sep2025 20:54:35.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
+[22Sep2025 20:54:35.980] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
+[22Sep2025 20:54:46.444] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[22Sep2025 20:54:46.597] [Worker-Main-3/DEBUG] [mixin/]: Mixing BeardifierMixin from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Sep2025 20:54:46.599] [Worker-Main-3/DEBUG] [mixin/]: Mixing accessor.BeardifierAccessor from yungsapi.mixins.json into net.minecraft.world.level.levelgen.Beardifier
+[22Sep2025 20:54:46.869] [Worker-Main-1/INFO] [citadel/]: vanilla surface rule behavior unchanged
+[22Sep2025 20:56:12.012] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 20:56:12.020] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 20:57:05.003] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to DogeChileno]
+[22Sep2025 20:57:05.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[22Sep2025 20:57:05.169] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[22Sep2025 20:57:10.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> no me asustes asi
+[22Sep2025 20:57:22.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> .-.
+[22Sep2025 20:57:28.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> comi pollo
+[22Sep2025 20:57:33.323] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> y se me salio
+[22Sep2025 20:57:35.590] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 20:57:46.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> sabes donde hay librerias=?
+[22Sep2025 20:58:06.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> en donde conseguiste esa armadura?
+[22Sep2025 20:58:15.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> Necesito par de vainas
+[22Sep2025 20:58:20.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> para actualizarme
+[22Sep2025 20:58:31.709] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogeChileno moved wrongly!
+[22Sep2025 20:59:01.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> me siento ignorada
+[22Sep2025 20:59:05.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 20:59:08.040] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> sorry
+[22Sep2025 20:59:32.241] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=348, y=72, z=879} BlockPos{x=348, y=72, z=878}
+[22Sep2025 20:59:46.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> a por cierto por lo del anillo
+[22Sep2025 20:59:54.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> ese webon de lechuga{
+[22Sep2025 21:00:06.038] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> me lo paso que disque para que se lo de a yun
+[22Sep2025 21:00:08.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> :v
+[22Sep2025 21:00:11.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> mamawebo sera
+[22Sep2025 21:00:42.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Nanami12483: Teleported Nanami12483 to DogeChileno]
+[22Sep2025 21:00:50.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> :o

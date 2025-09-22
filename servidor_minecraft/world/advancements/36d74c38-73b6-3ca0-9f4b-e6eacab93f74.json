@@ -74,6 +74,7 @@
       "minecraft:spider": "2025-09-21 00:59:53 +0000",
       "minecraft:creeper": "2025-09-21 17:47:49 +0000",
       "minecraft:cave_spider": "2025-09-21 04:06:12 +0000",
+      "minecraft:piglin": "2025-09-22 20:55:18 +0000",
       "minecraft:zombie": "2025-09-20 23:13:18 +0000"
     },
     "done": false
@@ -5347,9 +5348,34 @@
     },
     "done": true
   },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-22 20:54:18 +0000",
+      "minecraft:soul_sand_valley": "2025-09-22 20:53:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-22 20:53:54 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-22 20:50:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-09-22 20:34:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-22 20:53:54 +0000"
     },
     "done": true
   },
@@ -5359,9 +5385,21 @@
     },
     "done": true
   },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-09-22 20:49:46 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/onion_crate": {
     "criteria": {
       "has_onion": "2025-09-22 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-22 20:49:19 +0000"
     },
     "done": true
   },
