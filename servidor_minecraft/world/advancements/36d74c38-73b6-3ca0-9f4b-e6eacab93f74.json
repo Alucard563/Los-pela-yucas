@@ -5391,6 +5391,18 @@
     },
     "done": true
   },
+  "doggytalents:recipes/misc/rice_mill": {
+    "criteria": {
+      "has_paddy_rice_dtn": "2025-09-22 21:21:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_helmet": "2025-09-22 21:24:49 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/magenta_dye_from_allium": {
     "criteria": {
       "has_allium": "2025-09-22 20:34:03 +0000"
@@ -5427,6 +5439,12 @@
       "minecraft:cow": "2025-09-22 21:10:37 +0000"
     },
     "done": false
+  },
+  "doggytalents:recipes/food/rice_grains": {
+    "criteria": {
+      "has_dtn_rice_wheat": "2025-09-22 21:21:44 +0000"
+    },
+    "done": true
   },
   "mca:recipes/misc/potions": {
     "criteria": {
