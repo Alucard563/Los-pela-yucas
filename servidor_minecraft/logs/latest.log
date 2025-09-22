@@ -483,3 +483,34 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 20:39:21.949] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
 [22Sep2025 20:39:36.923] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
 [22Sep2025 20:39:36.923] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[22Sep2025 20:42:13.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[22Sep2025 20:42:13.729] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 20:42:13.729] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 20:42:46.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [Rotten to the Core]
+[22Sep2025 20:44:55.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 lost connection: Disconnected
+[22Sep2025 20:44:55.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 left the game
+[22Sep2025 20:44:55.374] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was unloaded
+[22Sep2025 20:44:55.421] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[22Sep2025 20:45:14.486] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJahir27[/127.107.179.229:54967] logged in with entity id 4305 at (341.83583147846275, 87.9375, 777.7013906808478)
+[22Sep2025 20:45:14.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 joined the game
+[22Sep2025 20:45:14.552] [Server thread/INFO] [Jade/]: Syncing config to CJahir27 (7152aaaf-d0e4-3190-8dfc-d6020334e09f)
+[22Sep2025 20:45:15.028] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was loaded
+[22Sep2025 20:45:15.029] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 20:45:15.029] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 20:45:24.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 20:45:24.124] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 20:45:31.528] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 20:45:31.529] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 20:45:39.075] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 20:45:39.075] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 20:48:33.277] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> como me hago mi espada de fuego'
+[22Sep2025 20:48:36.041] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> volvi
+[22Sep2025 20:48:41.500] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> asiendola
+[22Sep2025 20:48:42.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 20:49:39.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> tienes que tener sangre del dragon de fuego
+[22Sep2025 20:49:46.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> y una espada normal
+[22Sep2025 20:49:54.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> de dragon
+[22Sep2025 20:50:04.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> quien tiene huesos negros?
+[22Sep2025 20:50:14.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> por que isieron esto?
+[22Sep2025 20:50:16.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> aca
+[22Sep2025 20:50:18.431] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> xd
