@@ -2972,7 +2972,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-21 19:48:30 +0000",
       "minecraft:nether_wastes": "2025-09-21 18:50:54 +0000",
-      "minecraft:soul_sand_valley": "2025-09-21 19:34:51 +0000"
+      "minecraft:soul_sand_valley": "2025-09-21 19:34:51 +0000",
+      "minecraft:basalt_deltas": "2025-09-22 19:52:25 +0000"
     },
     "done": false
   },
@@ -5209,6 +5210,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/bacon_sandwich": {
     "criteria": {
       "has_bacon": "2025-09-22 19:15:36 +0000"
@@ -5221,9 +5228,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 19:56:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
     },
     "done": true
   },
@@ -5263,6 +5294,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/apple_pie": {
     "criteria": {
       "has_pie_crust": "2025-09-22 19:16:25 +0000"
@@ -5272,6 +5321,12 @@
   "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
     "criteria": {
       "cooked_bacon": "2025-09-22 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
     },
     "done": true
   },
@@ -5329,6 +5384,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/gyudon": {
     "criteria": {
       "has_rice_bowl": "2025-09-22 19:37:03 +0000"
@@ -5353,6 +5414,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 19:56:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/redstone_block": {
     "criteria": {
       "has_redstone": "2025-09-22 19:29:37 +0000"
@@ -5371,6 +5438,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/cooked_bacon": {
     "criteria": {
       "cooked_bacon": "2025-09-22 19:14:55 +0000"
@@ -5380,6 +5459,12 @@
   "farmersdelight:recipes/food/sweet_berry_cheesecake": {
     "criteria": {
       "has_pie_crust": "2025-09-22 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
     },
     "done": true
   },

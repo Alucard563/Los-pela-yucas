@@ -4978,7 +4978,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-09-21 19:49:15 +0000",
       "minecraft:nether_wastes": "2025-09-21 18:50:51 +0000",
-      "minecraft:soul_sand_valley": "2025-09-21 19:34:08 +0000"
+      "minecraft:soul_sand_valley": "2025-09-21 19:34:08 +0000",
+      "minecraft:basalt_deltas": "2025-09-22 19:52:27 +0000"
     },
     "done": false
   },
@@ -5822,15 +5823,69 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 19:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
       "has_any_ingredient": "2025-09-22 19:38:42 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:50:52 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/building_blocks/tomato_crate": {
     "criteria": {
       "has_tomato": "2025-09-22 19:38:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-09-22 19:51:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/return_to_sender": {
+    "criteria": {
+      "killed_ghast": "2025-09-22 19:56:03 +0000"
     },
     "done": true
   },
