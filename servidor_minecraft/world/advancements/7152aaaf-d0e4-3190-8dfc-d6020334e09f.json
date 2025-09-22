@@ -5156,15 +5156,117 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-09-22 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-09-22 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
+    "criteria": {
+      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-22 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
+    "criteria": {
+      "cooked_bacon": "2025-09-22 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooked_bacon": {
+    "criteria": {
+      "cooked_bacon": "2025-09-22 19:14:55 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_sandwich": {
+    "criteria": {
+      "has_bacon": "2025-09-22 19:15:36 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/bacon_and_eggs": {
+    "criteria": {
+      "has_bacon": "2025-09-22 19:15:36 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/milk_bottle": {
     "criteria": {
       "has_milk_bucket": "2025-09-22 19:16:12 +0000"
     },
     "done": true
   },
-  "spawn:recipes/snail/escargot_from_dried_kelp": {
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
-      "has_raw_item": "2025-09-22 19:37:21 +0000"
+      "has_any_ingredient": "2025-09-22 19:16:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-22 19:16:12 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_milk": {
+    "criteria": {
+      "has_raw_item": "2025-09-22 19:16:12 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/apple_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-09-22 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/chocolate_pie": {
+    "criteria": {
+      "has_pie_crust": "2025-09-22 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
+    "criteria": {
+      "has_pie_crust": "2025-09-22 19:16:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/paper": {
+    "criteria": {
+      "has_reeds": "2025-09-22 19:18:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/sugar_from_sugar_cane": {
+    "criteria": {
+      "has_sugar_cane": "2025-09-22 19:18:45 +0000"
     },
     "done": true
   },
@@ -5174,9 +5276,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/white_dye": {
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
     "criteria": {
-      "has_bone_meal": "2025-09-22 18:54:56 +0000"
+      "has_apple_pie_slice": "2025-09-22 19:25:25 +0000"
     },
     "done": true
   },
@@ -5192,12 +5294,6 @@
     },
     "done": true
   },
-  "doggytalents:recipes/food/natto_rice": {
-    "criteria": {
-      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/tools/clock": {
     "criteria": {
       "has_redstone": "2025-09-22 19:29:37 +0000"
@@ -5210,75 +5306,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_sandwich": {
-    "criteria": {
-      "has_bacon": "2025-09-22 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/apple_pie_from_slices": {
-    "criteria": {
-      "has_apple_pie_slice": "2025-09-22 19:25:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/soul_torch": {
-    "criteria": {
-      "has_soul_sand": "2025-09-22 19:56:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/diorite": {
-    "criteria": {
-      "has_quartz": "2025-09-22 19:54:52 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/note_block": {
     "criteria": {
       "has_redstone": "2025-09-22 19:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/granite": {
-    "criteria": {
-      "has_quartz": "2025-09-22 19:54:52 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/rice_bowl_smelting": {
-    "criteria": {
-      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/paper": {
-    "criteria": {
-      "has_reeds": "2025-09-22 19:18:45 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/salmon_sushi": {
-    "criteria": {
-      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/cooking/glow_berry_custard": {
-    "criteria": {
-      "has_any_ingredient": "2025-09-22 19:16:12 +0000"
     },
     "done": true
   },
@@ -5288,9 +5318,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smelting": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smoking": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_camping": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/natto_rice": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/salmon_sushi": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/oyakodon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/gyudon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/onigiri": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_dried_kelp": {
+    "criteria": {
+      "has_raw_item": "2025-09-22 19:37:21 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
       "has_dried_kelp": "2025-09-22 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-22 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
+    "criteria": {
+      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2025-09-22 19:54:52 +0000"
     },
     "done": true
   },
@@ -5312,177 +5468,21 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/apple_pie": {
-    "criteria": {
-      "has_pie_crust": "2025-09-22 19:16:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_campfire_cooking": {
-    "criteria": {
-      "cooked_bacon": "2025-09-22 19:14:55 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/comparator": {
     "criteria": {
       "has_quartz": "2025-09-22 19:54:52 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/hot_cocoa": {
+  "minecraft:recipes/decorations/soul_torch": {
     "criteria": {
-      "has_any_ingredient": "2025-09-22 19:16:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/chocolate_pie": {
-    "criteria": {
-      "has_pie_crust": "2025-09-22 19:16:25 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon_from_smoking": {
-    "criteria": {
-      "cooked_bacon": "2025-09-22 19:14:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_campfire_cooking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
-    "criteria": {
-      "has_dried_kelp": "2025-09-22 19:37:21 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/rice_bowl_smoking": {
-    "criteria": {
-      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/oyakodon": {
-    "criteria": {
-      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/sugar_from_sugar_cane": {
-    "criteria": {
-      "has_sugar_cane": "2025-09-22 19:18:45 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/gyudon": {
-    "criteria": {
-      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/dropper": {
-    "criteria": {
-      "has_redstone": "2025-09-22 19:29:37 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/decorations/onigiri": {
-    "criteria": {
-      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/food/rice_bowl_camping": {
-    "criteria": {
-      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+      "has_soul_sand": "2025-09-22 19:56:09 +0000"
     },
     "done": true
   },
   "minecraft:recipes/decorations/soul_campfire": {
     "criteria": {
       "has_soul_sand": "2025-09-22 19:56:09 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/redstone_block": {
-    "criteria": {
-      "has_redstone": "2025-09-22 19:29:37 +0000"
-    },
-    "done": true
-  },
-  "spawn:recipes/snail/escargot_from_milk": {
-    "criteria": {
-      "has_raw_item": "2025-09-22 19:16:12 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/bacon_and_eggs": {
-    "criteria": {
-      "has_bacon": "2025-09-22 19:15:36 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_stairs_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/mossy_stone_brick_wall_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_bacon": {
-    "criteria": {
-      "cooked_bacon": "2025-09-22 19:14:55 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/sweet_berry_cheesecake": {
-    "criteria": {
-      "has_pie_crust": "2025-09-22 19:16:25 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/mossy_stone_brick_slab_from_mossy_stone_brick_stonecutting": {
-    "criteria": {
-      "has_mossy_stone_bricks": "2025-09-22 19:47:21 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
-    "criteria": {
-      "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/piston": {
-    "criteria": {
-      "has_redstone": "2025-09-22 19:29:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/bone_block": {
-    "criteria": {
-      "has_bone_meal": "2025-09-22 18:54:56 +0000"
     },
     "done": true
   },
