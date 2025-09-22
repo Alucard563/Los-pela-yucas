@@ -191,10 +191,12 @@
       "baked_potato": "2025-09-21 20:25:28 +0000",
       "apple": "2025-09-21 00:05:15 +0000",
       "potato": "2025-09-21 18:53:42 +0000",
+      "mutton": "2025-09-22 18:58:04 +0000",
       "bread": "2025-09-20 23:54:51 +0000",
       "golden_apple": "2025-09-21 19:58:57 +0000",
       "rotten_flesh": "2025-09-21 02:11:22 +0000",
       "salmon": "2025-09-21 01:28:19 +0000",
+      "dried_kelp": "2025-09-22 18:41:51 +0000",
       "melon_slice": "2025-09-21 02:20:31 +0000",
       "golden_carrot": "2025-09-21 19:34:36 +0000",
       "cooked_chicken": "2025-09-21 05:15:04 +0000",
@@ -5701,6 +5703,90 @@
   "doggytalents:recipes/food/rice_bowl_camping": {
     "criteria": {
       "has_dtn_uncooked_rice_bowl": "2025-09-22 17:42:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bricks": {
+    "criteria": {
+      "has_brick": "2025-09-22 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/skillet": {
+    "criteria": {
+      "has_brick": "2025-09-22 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-09-22 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/flower_pot": {
+    "criteria": {
+      "has_brick": "2025-09-22 18:12:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/place_skillet": {
+    "criteria": {
+      "skillet": "2025-09-22 18:16:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-09-22 18:19:25 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/bandaid": {
+    "criteria": {
+      "has_koji": "2025-09-22 18:40:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/doggy_contacts": {
+    "criteria": {
+      "has_dtn_koji": "2025-09-22 18:40:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/koji": {
+    "criteria": {
+      "has_dtn_koji": "2025-09-22 18:40:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/natto_rice": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/salmon_sushi": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/oyakodon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/gyudon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 18:58:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/onigiri": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 18:58:59 +0000"
     },
     "done": true
   },
