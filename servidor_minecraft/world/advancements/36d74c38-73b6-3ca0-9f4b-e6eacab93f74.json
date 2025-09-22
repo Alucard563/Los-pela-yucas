@@ -5348,6 +5348,67 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/magenta_dye_from_allium": {
+    "criteria": {
+      "has_allium": "2025-09-22 20:34:03 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/dumplings": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-22 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/building_blocks/onion_crate": {
+    "criteria": {
+      "has_onion": "2025-09-22 20:34:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-09-22 20:35:31 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
+    "criteria": {
+      "has_copper_backpack": "2025-09-22 20:49:19 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-09-22 20:49:46 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
+    "criteria": {
+      "has_gold_backpack": "2025-09-22 20:50:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2025-09-22 20:54:18 +0000",
+      "minecraft:soul_sand_valley": "2025-09-22 20:53:54 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2025-09-22 20:53:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2025-09-22 20:53:54 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/food/fried_egg_from_smoking": {
     "criteria": {
       "fried_egg": "2025-09-22 21:06:59 +0000"
@@ -5360,64 +5421,9 @@
     },
     "done": true
   },
-  "minecraft:nether/explore_nether": {
-    "criteria": {
-      "minecraft:nether_wastes": "2025-09-22 20:54:18 +0000",
-      "minecraft:soul_sand_valley": "2025-09-22 20:53:54 +0000"
-    },
-    "done": false
-  },
-  "doggytalents:recipes/food/energizer_stick": {
-    "criteria": {
-      "has_sugar": "2025-09-22 21:08:51 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/enter_the_nether": {
-    "criteria": {
-      "entered_nether": "2025-09-22 20:53:54 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
-    "criteria": {
-      "has_gold_backpack": "2025-09-22 20:50:16 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/food/fried_egg_from_campfire_cooking": {
     "criteria": {
       "fried_egg": "2025-09-22 21:06:59 +0000"
-    },
-    "done": true
-  },
-  "doggytalents:recipes/misc/rice_mill": {
-    "criteria": {
-      "has_paddy_rice_dtn": "2025-09-22 21:21:44 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/shiny_gear": {
-    "criteria": {
-      "diamond_helmet": "2025-09-22 21:24:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/magenta_dye_from_allium": {
-    "criteria": {
-      "has_allium": "2025-09-22 20:34:03 +0000"
-    },
-    "done": true
-  },
-  "minecraft:husbandry/breed_an_animal": {
-    "criteria": {
-      "bred": "2025-09-22 21:10:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:nether/root": {
-    "criteria": {
-      "entered_nether": "2025-09-22 20:53:54 +0000"
     },
     "done": true
   },
@@ -5427,9 +5433,27 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/cooking/dumplings": {
+  "mca:recipes/misc/potions": {
     "criteria": {
-      "has_any_ingredient": "2025-09-22 20:34:11 +0000"
+      "has_item": "2025-09-22 21:06:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/fried_egg": {
+    "criteria": {
+      "fried_egg": "2025-09-22 21:06:59 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-09-22 21:08:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-09-22 21:10:37 +0000"
     },
     "done": true
   },
@@ -5440,45 +5464,21 @@
     },
     "done": false
   },
+  "doggytalents:recipes/misc/rice_mill": {
+    "criteria": {
+      "has_paddy_rice_dtn": "2025-09-22 21:21:44 +0000"
+    },
+    "done": true
+  },
   "doggytalents:recipes/food/rice_grains": {
     "criteria": {
       "has_dtn_rice_wheat": "2025-09-22 21:21:44 +0000"
     },
     "done": true
   },
-  "mca:recipes/misc/potions": {
+  "minecraft:story/shiny_gear": {
     "criteria": {
-      "has_item": "2025-09-22 21:06:59 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-09-22 20:49:46 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/building_blocks/onion_crate": {
-    "criteria": {
-      "has_onion": "2025-09-22 20:34:11 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack_from_copper": {
-    "criteria": {
-      "has_copper_backpack": "2025-09-22 20:49:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/nether_brick": {
-    "criteria": {
-      "has_netherrack": "2025-09-22 20:35:31 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/fried_egg": {
-    "criteria": {
-      "fried_egg": "2025-09-22 21:06:59 +0000"
+      "diamond_helmet": "2025-09-22 21:24:49 +0000"
     },
     "done": true
   },

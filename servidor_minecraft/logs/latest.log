@@ -655,3 +655,62 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 21:31:15.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> yo no
 [22Sep2025 21:31:19.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nose
 [22Sep2025 21:31:35.860] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q yo no se
+[22Sep2025 21:31:42.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> si
+[22Sep2025 21:31:48.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pero no me mates
+[22Sep2025 21:32:01.356] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 21:32:18.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[22Sep2025 21:32:18.857] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[22Sep2025 21:32:50.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[22Sep2025 21:32:50.465] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[22Sep2025 21:33:15.432] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 21:33:19.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bro
+[22Sep2025 21:33:22.226] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
+[22Sep2025 21:35:02.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> para q?
+[22Sep2025 21:35:10.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> estoy trabajando
+[22Sep2025 21:35:12.474] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> dime
+[22Sep2025 21:35:44.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q cosa
+[22Sep2025 21:35:52.975] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8ad5b81[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:55013) lost connection: Disconnected
+[22Sep2025 21:36:00.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> coño
+[22Sep2025 21:36:22.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> me cai en la porqeria de huieco ese
+[22Sep2025 21:36:24.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nose
+[22Sep2025 21:36:41.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> esperate
+[22Sep2025 21:36:48.295] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q es eso
+[22Sep2025 21:36:52.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q suena asi
+[22Sep2025 21:37:05.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> wtf
+[22Sep2025 21:37:23.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> escuchas eso?
+[22Sep2025 21:37:32.673] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> no lo escuchas?
+[22Sep2025 21:37:42.094] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tengo 6 nomas
+[22Sep2025 21:37:53.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q hijodeputa q eres
+[22Sep2025 21:38:02.451] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ya pensabas q lo tenia yo
+[22Sep2025 21:38:07.370] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@43062121[id=<null>,name=Nanami12483,properties={},legacy=false] (/127.216.201.107:50873) lost connection: Disconnected
+[22Sep2025 21:38:14.934] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Nanami12483[/127.216.201.107:45183] logged in with entity id 15558 at (364.69999998807907, 88.5625, 769.3000000119209)
+[22Sep2025 21:38:14.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Nanami12483 joined the game
+[22Sep2025 21:38:14.995] [Server thread/INFO] [Jade/]: Syncing config to Nanami12483 (36d74c38-73b6-3ca0-9f4b-e6eacab93f74)
+[22Sep2025 21:38:15.104] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 36d74c38-73b6-3ca0-9f4b-e6eacab93f74 was loaded
+[22Sep2025 21:38:15.105] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [Nanami12483]
+[22Sep2025 21:38:15.105] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [Nanami12483]
+[22Sep2025 21:38:22.542] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pERMISO
+[22Sep2025 21:38:41.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> kizzy
+[22Sep2025 21:38:41.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> pan dame vayas
+[22Sep2025 21:38:46.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> tienes 2 de oros?
+[22Sep2025 21:38:49.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> ke
+[22Sep2025 21:38:49.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> oro*
+[22Sep2025 21:39:57.250] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> mio perdon pero era las puertas
+[22Sep2025 21:39:59.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> de las vayas
+[22Sep2025 21:40:05.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> ....
+[22Sep2025 21:40:05.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> XD
+[22Sep2025 21:40:17.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> chileno
+[22Sep2025 21:40:21.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
+[22Sep2025 21:40:22.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> hasta aqui escuche un coño o mmg
+[22Sep2025 21:40:34.511] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> toma
+[22Sep2025 21:40:41.129] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> ya no
+[22Sep2025 21:40:41.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> de ayudita
+[22Sep2025 21:40:44.180] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> XD
+[22Sep2025 21:40:47.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> donde esta?
+[22Sep2025 21:40:54.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> son damela
+[22Sep2025 21:40:56.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> la agarro gabriel
+[22Sep2025 21:41:03.172] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> damelaaa
+[22Sep2025 21:41:05.398] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogeChileno moved wrongly!
+[22Sep2025 21:41:12.046] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q
+[22Sep2025 21:41:13.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> quieres
+[22Sep2025 21:41:21.199] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Nanami12483> lee
