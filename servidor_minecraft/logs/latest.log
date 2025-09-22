@@ -461,3 +461,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 19:13:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
 [22Sep2025 19:13:21.999] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
 [22Sep2025 19:14:43.929] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[22Sep2025 19:25:38.577] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[22Sep2025 19:25:40.917] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[22Sep2025 19:26:32.902] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3e356827[id=<null>,name=SonJefer,properties={},legacy=false] (/127.215.183.112:56507) lost connection: Disconnected
+[22Sep2025 19:26:39.527] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: SonJefer[/127.215.183.112:39903] logged in with entity id 14301 at (359.88329843158215, 88.0, 775.9203334208662)
+[22Sep2025 19:26:39.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer joined the game
+[22Sep2025 19:26:39.610] [Server thread/INFO] [Jade/]: Syncing config to SonJefer (e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2)
+[22Sep2025 19:26:39.703] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was loaded
+[22Sep2025 19:26:39.704] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [SonJefer]
+[22Sep2025 19:26:39.705] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [SonJefer]
+[22Sep2025 19:26:55.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> uy ta bonito
+[22Sep2025 19:27:07.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> es para que bailes y te tiramos dinero
+[22Sep2025 19:28:26.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> mira toma
+[22Sep2025 19:28:32.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q
+[22Sep2025 19:28:38.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> epa
+[22Sep2025 19:28:40.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> gracias
+[22Sep2025 19:29:04.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> tenescuarzo y redstone
+[22Sep2025 19:29:19.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tengo redstone
+[22Sep2025 19:29:23.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pero cuarzo no
+[22Sep2025 19:29:32.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> mira
+[22Sep2025 19:29:40.073] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ta bueno
+[22Sep2025 19:30:56.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> hay arroz?
+[22Sep2025 19:31:16.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> dame el arroz
+[22Sep2025 19:32:53.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> eu tenes xp?
+[22Sep2025 19:32:58.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> 1 nomas xd
+[22Sep2025 19:33:02.162] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> a
+[22Sep2025 19:34:40.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> me das el arroz
+[22Sep2025 19:34:52.350] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> el arroz?
+[22Sep2025 19:35:01.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> osea para cocinar
+[22Sep2025 19:35:18.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[22Sep2025 19:35:18.505] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is aec07ee6-dcc0-4b5f-bd2d-e83680b7322a
+[22Sep2025 19:35:18.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[22Sep2025 19:35:18.510] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is ffa5d021-4336-45e8-a9c7-f7eec8b1ec80
+[22Sep2025 19:35:19.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 19:35:19.972] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 19:35:26.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> tp xd
+[22Sep2025 19:35:32.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q hijo de puta q sos
+[22Sep2025 19:35:38.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nesecito la puta xp
+[22Sep2025 19:35:41.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> era pa ver que cocinabas
+[22Sep2025 19:35:44.352] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> y me queres matar
+[22Sep2025 19:35:52.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> tp
+[22Sep2025 19:35:56.220] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=6, y=92, z=10}
+[22Sep2025 19:35:58.223] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=7, y=92, z=9}
+[22Sep2025 19:36:00.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [SonJefer: Teleported CJahir27 to SonJefer]
+[22Sep2025 19:37:09.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> EYYY
+[22Sep2025 19:37:11.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> PUTA
+[22Sep2025 19:37:15.138] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nah mentira
+[22Sep2025 19:37:18.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> weon
+[22Sep2025 19:37:23.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> mi arroz
+[22Sep2025 19:37:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> cual mesa tiene la mejora de crafteo?
+[22Sep2025 19:37:58.806] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nose
+[22Sep2025 19:39:03.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> quiero el arroz
+[22Sep2025 19:39:07.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> cual arroz
+[22Sep2025 19:39:09.574] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> no el bowl
+[22Sep2025 19:39:23.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ya ahi no se uede
+[22Sep2025 19:39:25.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> puede
+[22Sep2025 19:39:31.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tenes q primero poner el arroz
+[22Sep2025 19:39:34.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> sin el bol
+[22Sep2025 19:39:41.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> en la maquina de arroz
+[22Sep2025 19:40:06.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> eu
+[22Sep2025 19:40:07.835] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> mano
+[22Sep2025 19:40:16.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> que paso
+[22Sep2025 19:40:29.158] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> y que tal si nos vamos al nether a buscar la cosa esa
+[22Sep2025 19:40:37.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> de hueso
+[22Sep2025 19:40:37.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> que cosa
+[22Sep2025 19:40:42.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> el polvo de hueso
+[22Sep2025 19:41:07.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> necesito la panicula dearroz
+[22Sep2025 19:41:29.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q e eso
+[22Sep2025 19:41:46.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> parece planta de maiz
+[22Sep2025 19:42:13.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> tome
+[22Sep2025 19:43:41.798] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> y como vamos al nether
+[22Sep2025 19:43:42.084] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> vamos por polvo de hueso we
+[22Sep2025 19:43:49.303] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> pos por el portal
+[22Sep2025 19:43:51.717] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q fuimos
+[22Sep2025 19:43:56.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ayer
+[22Sep2025 19:44:02.663] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> esta en china eso
+[22Sep2025 19:44:09.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> a 1300 bloques
+[22Sep2025 19:44:12.149] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> esta cerca
+[22Sep2025 19:44:28.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> vamos mas luego no traemos el portal pa aca

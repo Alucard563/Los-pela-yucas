@@ -4007,6 +4007,7 @@
       "onion": "2025-09-21 22:17:33 +0000",
       "tomato": "2025-09-21 22:12:59 +0000",
       "beetroot": "2025-09-21 22:13:00 +0000",
+      "sugar_cane": "2025-09-22 19:23:46 +0000",
       "wheat": "2025-09-21 21:07:43 +0000",
       "carrot": "2025-09-21 20:34:41 +0000"
     },
@@ -5160,9 +5161,51 @@
     },
     "done": true
   },
+  "spawn:recipes/snail/escargot_from_dried_kelp": {
+    "criteria": {
+      "has_raw_item": "2025-09-22 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/energizer_stick": {
+    "criteria": {
+      "has_sugar": "2025-09-22 19:24:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/white_dye": {
     "criteria": {
       "has_bone_meal": "2025-09-22 18:54:56 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/radio_collar": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/natto_rice": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/smarty_glasses": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
     },
     "done": true
   },
@@ -5172,15 +5215,51 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/apple_pie_from_slices": {
+    "criteria": {
+      "has_apple_pie_slice": "2025-09-22 19:25:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smelting": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/paper": {
     "criteria": {
       "has_reeds": "2025-09-22 19:18:45 +0000"
     },
     "done": true
   },
+  "doggytalents:recipes/food/salmon_sushi": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
   "farmersdelight:recipes/cooking/glow_berry_custard": {
     "criteria": {
       "has_any_ingredient": "2025-09-22 19:16:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/kelp_roll": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-22 19:37:21 +0000"
     },
     "done": true
   },
@@ -5220,6 +5299,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-22 19:37:21 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smoking": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/oyakodon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/sugar_from_sugar_cane": {
     "criteria": {
       "has_sugar_cane": "2025-09-22 19:18:45 +0000"
@@ -5229,6 +5326,36 @@
   "farmersdelight:recipes/food/cooked_chicken_cuts": {
     "criteria": {
       "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/gyudon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/onigiri": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 19:37:03 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_camping": {
+    "criteria": {
+      "has_dtn_uncooked_rice_bowl": "2025-09-22 19:37:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
     },
     "done": true
   },
@@ -5259,6 +5386,12 @@
   "farmersdelight:recipes/food/cooked_chicken_cuts_from_smoking": {
     "criteria": {
       "cooked_chicken_cuts": "2025-09-22 19:12:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-09-22 19:29:37 +0000"
     },
     "done": true
   },
