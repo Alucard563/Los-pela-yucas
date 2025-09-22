@@ -442,3 +442,21 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 19:02:23.634] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
 [22Sep2025 19:02:23.634] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
 [22Sep2025 19:02:24.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 19:05:42.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> oe
+[22Sep2025 19:05:44.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> veni
+[22Sep2025 19:06:08.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ey
+[22Sep2025 19:07:25.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 burned to death
+[22Sep2025 19:07:25.476] [Server thread/INFO] [gravestone/]: The death ID of player CJahir27 is 92881e75-f346-4647-a075-65c682cc8f6e
+[22Sep2025 19:07:26.949] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 19:07:26.950] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 19:07:41.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> te mataste solito
+[22Sep2025 19:08:10.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> sapo
+[22Sep2025 19:08:23.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> a vos
+[22Sep2025 19:08:30.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q ere sapo
+[22Sep2025 19:11:09.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> we
+[22Sep2025 19:11:13.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <CJahir27> ?
+[22Sep2025 19:11:16.203] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> ya taje el pollo ase rato
+[22Sep2025 19:11:25.251] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bueno
+[22Sep2025 19:13:21.998] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonJefer lost connection: Disconnected
+[22Sep2025 19:13:21.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
+[22Sep2025 19:13:21.999] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
