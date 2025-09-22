@@ -5590,51 +5590,15 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/food/nether_salad": {
-    "criteria": {
-      "has_bowl": "2025-09-21 22:33:49 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_smelting": {
-    "criteria": {
-      "has_kelp": "2025-09-21 22:43:54 +0000"
-    },
-    "done": true
-  },
-  "spawn:recipes/snail/escargot_from_dried_kelp": {
-    "criteria": {
-      "has_raw_item": "2025-09-21 22:46:48 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
-    "criteria": {
-      "has_kelp": "2025-09-21 22:43:54 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/voluntary_exile": {
-    "criteria": {
-      "voluntary_exile": "2025-09-21 22:36:11 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/clay": {
     "criteria": {
       "has_clay_ball": "2025-09-21 22:09:17 +0000"
     },
     "done": true
   },
-  "farmersdelight:main/eat_comfort_food": {
+  "minecraft:recipes/misc/brick": {
     "criteria": {
-      "comfort": "2025-09-21 22:33:49 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/kelp_roll": {
-    "criteria": {
-      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
+      "has_clay_ball": "2025-09-21 22:09:17 +0000"
     },
     "done": true
   },
@@ -5644,15 +5608,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/dried_kelp_from_smoking": {
+  "farmersdelight:recipes/food/nether_salad": {
     "criteria": {
-      "has_kelp": "2025-09-21 22:43:54 +0000"
+      "has_bowl": "2025-09-21 22:33:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/dried_kelp_block": {
+  "farmersdelight:main/eat_comfort_food": {
     "criteria": {
-      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
+      "comfort": "2025-09-21 22:33:49 +0000"
     },
     "done": true
   },
@@ -5668,21 +5632,57 @@
     },
     "done": false
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-09-21 22:33:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-09-21 22:36:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-09-21 22:43:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/dried_kelp_from_grill_cooking": {
     "criteria": {
       "has_kelp": "2025-09-21 22:43:54 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/brick": {
+  "spawn:recipes/snail/escargot_from_dried_kelp": {
     "criteria": {
-      "has_clay_ball": "2025-09-21 22:09:17 +0000"
+      "has_raw_item": "2025-09-21 22:46:48 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/food/mushroom_stew": {
+  "farmersdelight:recipes/food/kelp_roll": {
     "criteria": {
-      "has_bowl": "2025-09-21 22:33:49 +0000"
+      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-09-21 22:46:48 +0000"
     },
     "done": true
   },
