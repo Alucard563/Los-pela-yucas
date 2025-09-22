@@ -5100,3 +5100,26 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 22:27:53.087] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has completed the challenge [Cover Me in Debris]
 [22Sep2025 22:31:11.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Sep2025 22:31:12.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 22:33:34.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> MAMAWEBO
+[22Sep2025 22:33:37.570] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 22:36:12.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 22:36:12.007] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 22:37:52.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> bro
+[22Sep2025 22:37:59.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> quieres morirte?
+[22Sep2025 22:40:11.249] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> que ases
+[22Sep2025 22:40:16.360] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> nada
+[22Sep2025 22:40:50.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> q quiere señor?
+[22Sep2025 22:40:53.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno was burnt to a crisp whilst fighting Skeleton
+[22Sep2025 22:40:53.820] [Server thread/INFO] [gravestone/]: The death ID of player DogeChileno is 57ae77f5-affe-49f7-bc14-51f4801be996
+[22Sep2025 22:40:55.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [DogeChileno]
+[22Sep2025 22:40:55.233] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [DogeChileno]
+[22Sep2025 22:41:04.070] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> XD
+[22Sep2025 22:41:07.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> esqueleto hdp
+[22Sep2025 22:41:11.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 22:41:11.999] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 22:41:18.921] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> bueno ya me voy we
+[22Sep2025 22:41:21.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <DogeChileno> bye
+[22Sep2025 22:41:24.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> chao
+[22Sep2025 22:41:28.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogeChileno lost connection: Disconnected
+[22Sep2025 22:41:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno left the game
+[22Sep2025 22:41:28.220] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a5eb3baf-f6dd-307e-a452-2b18d1ccdd40 was unloaded
