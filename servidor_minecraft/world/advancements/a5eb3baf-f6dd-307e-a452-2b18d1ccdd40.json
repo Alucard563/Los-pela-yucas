@@ -25,6 +25,7 @@
       "minecraft:sparse_jungle": "2025-09-20 23:24:05 +0000",
       "minecraft:river": "2025-09-20 23:20:25 +0000",
       "minecraft:stony_shore": "2025-09-20 23:18:09 +0000",
+      "minecraft:dripstone_caves": "2025-09-22 21:50:06 +0000",
       "minecraft:forest": "2025-09-20 23:09:01 +0000",
       "minecraft:jungle": "2025-09-21 02:13:25 +0000",
       "minecraft:windswept_savanna": "2025-09-21 02:07:25 +0000",
@@ -4934,9 +4935,63 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/nether_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-22 21:45:49 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/milk_bottle": {
+    "criteria": {
+      "has_milk_bucket": "2025-09-22 21:45:34 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/frisbee": {
+    "criteria": {
+      "has_slime_ball": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_chestplate": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_smelting": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/natto_rice": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 21:42:16 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-09-22 21:39:56 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/advanced_magnet_upgrade_from_basic": {
+    "criteria": {
+      "has_magnet_upgrade": "2025-09-22 21:41:47 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/rice_bowl_smelting": {
+    "criteria": {
+      "has_the_recipe": "2025-09-22 21:42:16 +0000"
     },
     "done": true
   },
@@ -4946,9 +5001,141 @@
     },
     "done": true
   },
+  "doggytalents:recipes/food/salmon_sushi": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/glow_berry_custard": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-22 21:45:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/lead": {
+    "criteria": {
+      "has_slime_ball": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/skull_to_bone_meal": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/cooking/hot_cocoa": {
+    "criteria": {
+      "has_any_ingredient": "2025-09-22 21:45:34 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_smelting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/sticky_piston": {
+    "criteria": {
+      "has_slime_ball": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_leggings": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/oyakodon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mixed_salad": {
+    "criteria": {
+      "has_bowl": "2025-09-22 21:45:49 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/gyudon": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/misc/gold_nugget_from_blasting_knife": {
+    "criteria": {
+      "has_golden_knife": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/decorations/onigiri": {
+    "criteria": {
+      "has_rice_bowl": "2025-09-22 21:42:16 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_helmet": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/combat/lunar_stone_boots": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/slime_block": {
+    "criteria": {
+      "has_slime_ball": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "spawn:recipes/snail/escargot_from_milk": {
+    "criteria": {
+      "has_raw_item": "2025-09-22 21:45:34 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-09-22 21:16:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/raw_iron": {
+    "criteria": {
+      "has_raw_iron_block": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/misc/dragon_stick": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/food/super_treat": {
+    "criteria": {
+      "has_golden_apple": "2025-09-22 21:41:27 +0000"
+    },
+    "done": true
+  },
+  "doggytalents:recipes/tools/throw_stick": {
+    "criteria": {
+      "has_slime_ball": "2025-09-22 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "celestisynth:recipes/misc/lunar_scrap_blasting": {
+    "criteria": {
+      "has_item": "2025-09-22 21:41:27 +0000"
     },
     "done": true
   },
