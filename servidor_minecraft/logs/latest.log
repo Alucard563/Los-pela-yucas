@@ -907,3 +907,12 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 22:41:28.219] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: DogeChileno lost connection: Disconnected
 [22Sep2025 22:41:28.219] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: DogeChileno left the game
 [22Sep2025 22:41:28.220] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of a5eb3baf-f6dd-307e-a452-2b18d1ccdd40 was unloaded
+[22Sep2025 23:36:21.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer has made the advancement [Stay Out of my Peripheral!]
+[22Sep2025 23:37:17.483] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: CJahir27[/127.107.179.229:41069] logged in with entity id 40865 at (354.69999998807907, 89.0625, 781.6245627074276)
+[22Sep2025 23:37:17.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 joined the game
+[22Sep2025 23:37:17.525] [Server thread/INFO] [Jade/]: Syncing config to CJahir27 (7152aaaf-d0e4-3190-8dfc-d6020334e09f)
+[22Sep2025 23:37:18.872] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was loaded
+[22Sep2025 23:37:18.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 23:37:18.873] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
+[22Sep2025 23:37:34.222] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Sent Server Limitation of [CJahir27]
+[22Sep2025 23:37:34.222] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Received Client Information of [CJahir27]
