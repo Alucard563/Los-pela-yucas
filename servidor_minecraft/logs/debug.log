@@ -5353,3 +5353,13 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [23Sep2025 00:01:12.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [23Sep2025 00:02:28.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
 [23Sep2025 00:02:32.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[23Sep2025 00:03:21.169] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 lost connection: Disconnected
+[23Sep2025 00:03:21.170] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: CJahir27 left the game
+[23Sep2025 00:03:21.170] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of 7152aaaf-d0e4-3190-8dfc-d6020334e09f was unloaded
+[23Sep2025 00:06:11.992] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 00:06:12.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 00:07:29.167] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: SonJefer lost connection: Disconnected
+[23Sep2025 00:07:29.167] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: SonJefer left the game
+[23Sep2025 00:07:29.167] [Server thread/INFO] [com.alrex.parcool.ParCool/]: Limitation of e6a0ea5d-04b6-382b-bba2-c44a5d6f19e2 was unloaded
+[23Sep2025 00:11:11.971] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 00:11:11.979] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
