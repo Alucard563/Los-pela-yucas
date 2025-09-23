@@ -5346,3 +5346,10 @@ com.google.gson.JsonSyntaxException: Unknown item 'patchouli:guide_book'
 [22Sep2025 23:46:12.013] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [22Sep2025 23:51:11.995] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [22Sep2025 23:51:12.003] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 23:56:11.997] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[22Sep2025 23:56:12.005] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[22Sep2025 23:56:30.621] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <SonJefer> no
+[23Sep2025 00:01:12.000] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Sep2025 00:01:12.008] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Sep2025 00:02:28.401] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
+[23Sep2025 00:02:32.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: CJahir27 moved wrongly!
